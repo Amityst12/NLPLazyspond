@@ -1,0 +1,9 @@
+setfit_lazyspond_final/
+setfit_lazyspond_model/
+runs/
+error.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+checkpoints/
+*.log
