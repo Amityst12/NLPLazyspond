@@ -12,29 +12,29 @@ The objective of this project is to build an Intent Classification system capabl
 ## 2. Data Engineering (Synthetic Data)
 A primary challenge in this domain is the absence of publicly available, high-quality Hebrew datasets that capture authentic social media vernacular. To overcome this cold-start problem, we engineered a custom synthetic dataset utilizing Large Language Models (LLMs).
 
-We generated approximately 400 highly authentic examples that mimic real-world Israeli users. The generation process strictly enforced:
+We generated exactly 1,000 highly authentic examples that mimic real-world Israeli users. The generation process strictly enforced:
 - **Linguistic Realism:** Incorporation of common typos, heavy Israeli slang (e.g., "אח יקר", "פיזדץ"), Heblish, and emojis.
-- **Class Balancing:** Ensuring a balanced distribution of examples across each of the 4 intent categories.
+- **Class Balancing:** Ensuring a balanced distribution of examples across each of the 4 intent categories (250 items per class).
 - **Nuanced Differentiation:** Establishing clear linguistic boundaries between genuine purchase intent (`LEAD`) and promotional bot behavior (`SPAM`).
 
 ## 3. Model Architecture & Training
-Given the relatively small size of our custom dataset (~400 records), traditional fine-tuning of large transformer models would likely result in overfitting. To address this, we adopted **SetFit** (Sentence Transformer Fine-tuning), a highly efficient framework designed for Few-Shot Text Classification.
+Given our custom dataset of 1,000 records, traditional fine-tuning of large transformer models would likely result in overfitting. To address this, we adopted **SetFit** (Sentence Transformer Fine-tuning), a highly efficient framework designed for Few-Shot Text Classification.
 
 - **Base Model:** We utilized `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2`, an exceptionally fast and capable multilingual model.
 - **Training Strategy:** SetFit operates in a two-stage process. First, it fine-tunes the Sentence Transformer body using contrastive learning on sentence pairs to generate robust embeddings. Second, it trains a classification head (Logistic Regression) on these enhanced embeddings.
-- **Refinement:** Initial tests on a smaller subset showed instability. By expanding the synthetic dataset to nearly 400 diverse records, the model stabilized and learned to generalize effectively across the noisy linguistic variance.
+- **Refinement:** Initial tests on a smaller subset showed instability. By expanding the synthetic dataset to exactly 1,000 diverse records, the model stabilized and learned to generalize effectively across the noisy linguistic variance.
 
 ## 4. Results & Zero-Shot Comparison
-To scientifically validate our approach, we established a baseline using a state-of-the-art multilingual zero-shot classifier (`MoritzLaurer/mDeBERTa-v3-base-mnli-xnli`). The test set constituted an 80/20 split (seed=42) of our dataset.
+To scientifically validate our approach, we established a baseline using a state-of-the-art multilingual zero-shot classifier (`MoritzLaurer/mDeBERTa-v3-base-mnli-xnli`). The test set constituted an 80/20 split (seed=42) containing exactly 200 samples.
 
 As hypothesized, the generic zero-shot model failed significantly. It struggled to map its pre-trained linguistic understanding to the highly localized, informal, and domain-specific Heblish slang. Conversely, our SetFit model demonstrated exceptional performance.
 
 | Metric | Zero-Shot Baseline (`mDeBERTa-v3-base`) | Fine-Tuned SetFit |
 |--------|---------------------------------------|-------------------|
-| **Accuracy** | 21.79% | **94.87%** |
-| **Precision** | 16.23% | **95.05%** |
-| **Recall** | 21.50% | **94.62%** |
-| **F1-Score** | 18.18% | **94.80%** |
+| **Accuracy** | 22.00% | **97.50%** |
+| **Precision** | 27.99% | **97.68%** |
+| **Recall** | 21.99% | **97.25%** |
+| **F1-Score** | 20.48% | **97.44%** |
 
 *Note: The baseline accuracy of ~21% is statistically equivalent to random guessing among 4 classes, emphasizing the absolute necessity of our domain-specific fine-tuning.*
 

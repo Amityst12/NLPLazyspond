@@ -1,1546 +1,4002 @@
 [
-  {
-    "text": "כמה עולה אח יקר?",
-    "label": "LEAD"
-  },
-  {
-    "text": "שלח לינק לפרטי",
-    "label": "LEAD"
-  },
-  {
-    "text": "מאיפה קונים את זה??",
-    "label": "LEAD"
-  },
-  {
-    "text": "price bro?",
-    "label": "LEAD"
-  },
-  {
-    "text": "איך מזמינים?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אפשר פרטים?",
-    "label": "LEAD"
-  },
-  {
-    "text": "שלח קישור אחי",
-    "label": "LEAD"
-  },
-  {
-    "text": "דבר אליי במספרים",
-    "label": "LEAD"
-  },
-  {
-    "text": "linkkk please",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש הנחה לעוקבים?",
-    "label": "LEAD"
-  },
-  {
-    "text": "מתי יש מלאי מחדש?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אני רוצה להזמין איך עושים את זה",
-    "label": "LEAD"
-  },
-  {
-    "text": "send link אחי",
-    "label": "LEAD"
-  },
-  {
-    "text": "האתר שלכם קרס לי באמצע ההזמנה",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אחי לא קיבלתי את הקוד למייל",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "יש לכם בעיה באפליקציה",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "how to reset password? לא עובד לי",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "הזמנתי לפני שבוע ועוד לא הגיע מה נסגר",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "הקופון לא עובד לי פיזדץ",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "לא מצליח להתחבר למשתמש שלי",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "it doesnt work help",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אפשר עזרה עם ההתחברות? נתקע לי המסך",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "יש באג בתשלום זה עושה לי שגיאה 404",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "שומע אחי יש בעיה קטנה עם המשלוח",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אני מנסה להוריד וזה רושם שגיאה, מה עושים?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "bro האפליקציה פשוט נסגרת לי",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "buy followers cheap dm me",
-    "label": "SPAM"
-  },
-  {
-    "text": "הרווחתי 5000 דולר ביום כנסו לביו",
-    "label": "SPAM"
-  },
-  {
-    "text": "🔥🔥🔥 hot girls here link in bio",
-    "label": "SPAM"
-  },
-  {
-    "text": "sdfsdfsdfds",
-    "label": "SPAM"
-  },
-  {
-    "text": "הלוואה ברגע ללא ערבים דברו איתי",
-    "label": "SPAM"
-  },
-  {
-    "text": "promote it on @big_page",
-    "label": "SPAM"
-  },
-  {
-    "text": "send it to @viral_hebrew",
-    "label": "SPAM"
-  },
-  {
-    "text": "עבודה מהבית קלה ורווחית תשלחו הודעה",
-    "label": "SPAM"
-  },
-  {
-    "text": "dm me for promo",
-    "label": "SPAM"
-  },
-  {
-    "text": "asdkjhasdkhj",
-    "label": "SPAM"
-  },
-  {
-    "text": "Get 10k real followers 10$",
-    "label": "SPAM"
-  },
-  {
-    "text": "עוקבים ולייקים באינסטגרם בזול",
-    "label": "SPAM"
-  },
-  {
-    "text": "חחחחח איזה חזק",
-    "label": "IDLE"
-  },
-  {
-    "text": "אח יקר אתה",
-    "label": "IDLE"
-  },
-  {
-    "text": "🔥❤️",
-    "label": "IDLE"
-  },
-  {
-    "text": "פסיכי לגמרי",
-    "label": "IDLE"
-  },
-  {
-    "text": "חחח שרוף עליך",
-    "label": "IDLE"
-  },
-  {
-    "text": "omg yes",
-    "label": "IDLE"
-  },
-  {
-    "text": "אין עליכם בעולם",
-    "label": "IDLE"
-  },
-  {
-    "text": "וואו איזה סטייל",
-    "label": "IDLE"
-  },
-  {
-    "text": "פיזדץ איזה יופי",
-    "label": "IDLE"
-  },
-  {
-    "text": "niceee",
-    "label": "IDLE"
-  },
-  {
-    "text": "מתתתת 💀",
-    "label": "IDLE"
-  },
-  {
-    "text": "מטורף אחי יא מלך",
-    "label": "IDLE"
-  },
-  {
-    "text": "מעוניינת, אפשר לינק?",
-    "label": "LEAD"
-  },
-  {
-    "text": "כמה עולה המשלוח?",
-    "label": "LEAD"
-  },
-  {
-    "text": "תגיד יש מידות נוספות?",
-    "label": "LEAD"
-  },
-  {
-    "text": "how much?",
-    "label": "LEAD"
-  },
-  {
-    "text": "שימו פה קישור לקנייה",
-    "label": "LEAD"
-  },
-  {
-    "text": "אפשר לשלם בביט?",
-    "label": "LEAD"
-  },
-  {
-    "text": "מאיפה אוספים?",
-    "label": "LEAD"
-  },
-  {
-    "text": "where to buy?",
-    "label": "LEAD"
-  },
-  {
-    "text": "איך אפשר להזמין את זה למרכז?",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש במלאי גם בצבע שחור?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אני מנסה לקנות וזה נתקע לי",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "היי לא ענו לי בשירות לקוחות",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "הקוד קופון פג תוקף",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אפשר לבטל הזמנה שעשיתי הרגע?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "יש לי בעיה עם הלינק בביו",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "how can I return this?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "לא קיבלתי אישור למייל",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "זה מראה לי שגיאה 500",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "המשלוח שלי היה אמור להגיע אתמול",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אני רושם את הסיסמה וזה לא נותן לי להיכנס",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "רוצה לעשות כסף קל? כנס עכשיו",
-    "label": "SPAM"
-  },
-  {
-    "text": "invest in crypto now send dm",
-    "label": "SPAM"
-  },
-  {
-    "text": "free followers and likes !!!",
-    "label": "SPAM"
-  },
-  {
-    "text": "vdfjvnkjdfvn",
-    "label": "SPAM"
-  },
-  {
-    "text": "הרווחתי מיליונים תשלחו לי הודעה",
-    "label": "SPAM"
-  },
-  {
-    "text": "promote your page here",
-    "label": "SPAM"
-  },
-  {
-    "text": "בוטים לאינסטגרם בהנחה",
-    "label": "SPAM"
-  },
-  {
-    "text": "check out my crazy story",
-    "label": "SPAM"
-  },
-  {
-    "text": "הגרלה מטורפת אצלי בעמוד!!!",
-    "label": "SPAM"
-  },
-  {
-    "text": "djfhsdkfjhsd",
-    "label": "SPAM"
-  },
-  {
-    "text": "אין דברים כאלה",
-    "label": "IDLE"
-  },
-  {
-    "text": "חיים שלי אתה",
-    "label": "IDLE"
-  },
-  {
-    "text": "wow amazing",
-    "label": "IDLE"
-  },
-  {
-    "text": "חחחחחח איזה גבר",
-    "label": "IDLE"
-  },
-  {
-    "text": "שרוף עליך אח יקר",
-    "label": "IDLE"
-  },
-  {
-    "text": "🔥🔥🔥🔥🔥",
-    "label": "IDLE"
-  },
-  {
-    "text": "פסיכיייי",
-    "label": "IDLE"
-  },
-  {
-    "text": "אהבתי בטירוף",
-    "label": "IDLE"
-  },
-  {
-    "text": "תותח מלידה",
-    "label": "IDLE"
-  },
-  {
-    "text": "lmao",
-    "label": "IDLE"
-  },
-  {
-    "text": "כמה עולה משלוח לתל אביב?",
-    "label": "LEAD"
-  },
-  {
-    "text": "איך אני מזמין את החולצה הלבנה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש את זה בעוד צבעים?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אפשר לקבל לינק לקנייה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "כמה עולה אחי?",
-    "label": "LEAD"
-  },
-  {
-    "text": "price please",
-    "label": "LEAD"
-  },
-  {
-    "text": "שלח פרטים בפרטי",
-    "label": "LEAD"
-  },
-  {
-    "text": "מתי זה חוזר למלאי???",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש לכם קוד קופון?",
-    "label": "LEAD"
-  },
-  {
-    "text": "מאיפה אוספים את זה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אפשר לשלם בביט או פייבוקס?",
-    "label": "LEAD"
-  },
-  {
-    "text": "תשלח לי לינק מהר אני רוצה לקנות",
-    "label": "LEAD"
-  },
-  {
-    "text": "האם יש משלוחים גם לצפון?",
-    "label": "LEAD"
-  },
-  {
-    "text": "how much for the whole set?",
-    "label": "LEAD"
-  },
-  {
-    "text": "שלח הודעה בפרטי לגבי מחירים",
-    "label": "LEAD"
-  },
-  {
-    "text": "איפה קונים את זה כפרה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אני חייבת כזה! מאיפה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש מידה לארג' מזה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "דבר איתי כמה עולה",
-    "label": "LEAD"
-  },
-  {
-    "text": "link in dm plz",
-    "label": "LEAD"
-  },
-  {
-    "text": "היי מתי יהיה זמין שוב בסניף?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אפשר להזמין עכשיו ולקבל מחר?",
-    "label": "LEAD"
-  },
-  {
-    "text": "איך נרשמים לתוכנית שלכם?",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש הנחת חיילים?",
-    "label": "LEAD"
-  },
-  {
-    "text": "תגיד יש תשלומים ללא ריבית?",
-    "label": "LEAD"
-  },
-  {
-    "text": "הזמנתי לפני שבועיים ועוד לא קיבלתי אישור!",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אחי הלינק שבור לא עובד לי",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "איך אני מבטל את ההזמנה שעשיתי הרגע?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "שלחתי לכם הודעה בוואטסאפ ולא עונים",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "יש באג באפליקציה זה קורס לי בכניסה",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "לא מצליח לשחזר סיסמה",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "my package didn't arrive",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "תענו בשירות לקוחות אני מחכה שעה",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "חויבתי פעמיים באשראי למה זה???",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "איך מחזירים מוצר פגום?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "האתר שלכם קרס באמצע התשלום איזה פיזדץ",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אני מנסה להתחבר וזה כותב שגיאה 500",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "לא עובד לי הקופון שפרסמתם",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "help my app is crashing",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "היי המשלוח שלי הגיע קרוע, מה עושים?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אפשר לדבר עם נציג אנושי?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "הורדתי את התוכנה וזה לא נפתח במק",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "שכחתי את המייל שלי למערכת, איך מסדרים את זה?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "שגיאה 404 כשאני לוחץ על הקישור לקנייה",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "i need technical support please",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "המוצר הגיע במידה לא נכונה!",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "שלחתי מייל ועדיין אין תשובה...",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "למה התשלום בפייפאל נכשל כל הזמן?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "יש לכם מספר טלפון לשירות?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "המערכת שלכם איטית בטירוף אי אפשר לעבוד ככה",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "כנסו לקישור בביו שלי לעוקבים בחינם!",
-    "label": "SPAM"
-  },
-  {
-    "text": "collab? dm us immediately",
-    "label": "SPAM"
-  },
-  {
-    "text": "send pic to @big_brand_pages",
-    "label": "SPAM"
-  },
-  {
-    "text": "רוצה לעשות 10,000 שקל בחודש מהבית? כנסו לסטורי שלי",
-    "label": "SPAM"
-  },
-  {
-    "text": "dm me for crypto tips and tricks",
-    "label": "SPAM"
-  },
-  {
-    "text": "fsdfsdfsdfs",
-    "label": "SPAM"
-  },
-  {
-    "text": "get verified for cheap. link in bio",
-    "label": "SPAM"
-  },
-  {
-    "text": "הלוואות בלי ערבים שלחו הודעה",
-    "label": "SPAM"
-  },
-  {
-    "text": "promote it on @israel_viral",
-    "label": "SPAM"
-  },
-  {
-    "text": "hot girls in my bio check it out 🔥🔥🔥",
-    "label": "SPAM"
-  },
-  {
-    "text": "עוקבים ולייקים באינסטגרם בהנחה מטורפת",
-    "label": "SPAM"
-  },
-  {
-    "text": "invest 50$ get 5000$ msg me",
-    "label": "SPAM"
-  },
-  {
-    "text": "buy fast followers and views link in bio",
-    "label": "SPAM"
-  },
-  {
-    "text": "sdasdsa asdsd",
-    "label": "SPAM"
-  },
-  {
-    "text": "קבוצת טלגרם סודית להרוויח מיליונים - לינק בביו",
-    "label": "SPAM"
-  },
-  {
-    "text": "DM @promote_page_2026 to get featured!",
-    "label": "SPAM"
-  },
-  {
-    "text": "vfvbfbfbfbf",
-    "label": "SPAM"
-  },
-  {
-    "text": "פתיחת מזל והחזרת אהבות דברו איתי",
-    "label": "SPAM"
-  },
-  {
-    "text": "win a free iphone just click the link",
-    "label": "SPAM"
-  },
-  {
-    "text": "בוטים ושרתים לאינסטגרם - מחיר רצפה",
-    "label": "SPAM"
-  },
-  {
-    "text": "message for shoutout and promos",
-    "label": "SPAM"
-  },
-  {
-    "text": "crypto trading bot is live see my stories",
-    "label": "SPAM"
-  },
-  {
-    "text": "עבודה מהבית שעתיים ביום 20 אלף שקל בחודש שלחו פרטי",
-    "label": "SPAM"
-  },
-  {
-    "text": "increase your reach with us DM NOW",
-    "label": "SPAM"
-  },
-  {
-    "text": "הרווחתי מלא כסף תודה לאל תבדקו את הפרופיל",
-    "label": "SPAM"
-  },
-  {
-    "text": "חחחחחח שרוף עליך!",
-    "label": "IDLE"
-  },
-  {
-    "text": "פסיכי לגמרי אחי",
-    "label": "IDLE"
-  },
-  {
-    "text": "אח יקר אתה אין דברים כאלה",
-    "label": "IDLE"
-  },
-  {
-    "text": "😍😍😍😍",
-    "label": "IDLE"
-  },
-  {
-    "text": "וואלה אתה גאון",
-    "label": "IDLE"
-  },
-  {
-    "text": "מתתתת עליך",
-    "label": "IDLE"
-  },
-  {
-    "text": "lmao this is too good",
-    "label": "IDLE"
-  },
-  {
-    "text": "פיזדץ מטורף!",
-    "label": "IDLE"
-  },
-  {
-    "text": "חיים שלי אהבתי רצח",
-    "label": "IDLE"
-  },
-  {
-    "text": "🔥❤️🔥❤️",
-    "label": "IDLE"
-  },
-  {
-    "text": "איזה מלך וואו",
-    "label": "IDLE"
-  },
-  {
-    "text": "הרגת אותי מצחוק חחחח",
-    "label": "IDLE"
-  },
-  {
-    "text": "niceeeeee",
-    "label": "IDLE"
-  },
-  {
-    "text": "שמע זה אדיר",
-    "label": "IDLE"
-  },
-  {
-    "text": "omggg yes",
-    "label": "IDLE"
-  },
-  {
-    "text": "יואו מטורףףף",
-    "label": "IDLE"
-  },
-  {
-    "text": "וואו איזה סטייל 👑",
-    "label": "IDLE"
-  },
-  {
-    "text": "חזק ביותר",
-    "label": "IDLE"
-  },
-  {
-    "text": "יא אללה איזה רמה",
-    "label": "IDLE"
-  },
-  {
-    "text": "love ittt",
-    "label": "IDLE"
-  },
-  {
-    "text": "בוכה מרוב צחוק",
-    "label": "IDLE"
-  },
-  {
-    "text": "שברת את הרשת אחי",
-    "label": "IDLE"
-  },
-  {
-    "text": "💯💯💯",
-    "label": "IDLE"
-  },
-  {
-    "text": "כמה עלה לכם לייצר את זה? רוצה לקנות בסיטונאות",
-    "label": "LEAD"
-  },
-  {
-    "text": "אחי איפה החנות שלכם ממוקמת?",
-    "label": "LEAD"
-  },
-  {
-    "text": "how much is it with delivery?",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש את זה במידה M?",
-    "label": "LEAD"
-  },
-  {
-    "text": "וואלה אהבתי, אפשר לשלם בהעברה בנקאית?",
-    "label": "LEAD"
-  },
-  {
-    "text": "כמה זמן לוקח משלוח לירושלים?",
-    "label": "LEAD"
-  },
-  {
-    "text": "send link for purchase plz",
-    "label": "LEAD"
-  },
-  {
-    "text": "אפשר פרטים על הקורס בפרטי?",
-    "label": "LEAD"
-  },
-  {
-    "text": "איך נרשמים אחים שלי?",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש לכם קוד קופון של משפיענים אולי?",
-    "label": "LEAD"
-  },
-  {
-    "text": "תגיד אם אני לוקח 2 יש הנחה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "where can i buy this??",
-    "label": "LEAD"
-  },
-  {
-    "text": "איך אני מזמינה כזה בורוד?",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש אחריות על המוצר הזה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "מתי אתם פתוחים ביום שישי בא לי לבוא לקנות",
-    "label": "LEAD"
-  },
-  {
-    "text": "אפשר לינק בפרטי בבקשה? אני לא מוצאת באתר",
-    "label": "LEAD"
-  },
-  {
-    "text": "I want to buy this right now",
-    "label": "LEAD"
-  },
-  {
-    "text": "שלח לי בפרטי מספר טלפון להזמנות",
-    "label": "LEAD"
-  },
-  {
-    "text": "האם זה מתאים גם לגברים?",
-    "label": "LEAD"
-  },
-  {
-    "text": "מחיר כפרה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "כמה עולה סט שלם?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אפשר לשלם בתשלומים?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אחי יש לכם משלוחים מעבר לקו הירוק?",
-    "label": "LEAD"
-  },
-  {
-    "text": "is there a black friday discount?",
-    "label": "LEAD"
-  },
-  {
-    "text": "וואו איך אני משיג את זה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "תגידו מי מכין את זה? אפשר להזמין עיצוב אישי?",
-    "label": "LEAD"
-  },
-  {
-    "text": "מה המחיר של השחור?",
-    "label": "LEAD"
-  },
-  {
-    "text": "link plsss",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש החזרות במידה וזה לא מתאים?",
-    "label": "LEAD"
-  },
-  {
-    "text": "כפרה שלח קישור לאתר",
-    "label": "LEAD"
-  },
-  {
-    "text": "איך אני מוסיף את זה לעגלה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש איסוף עצמי מראשון לציון?",
-    "label": "LEAD"
-  },
-  {
-    "text": "how to order?",
-    "label": "LEAD"
-  },
-  {
-    "text": "כמה זה יוצא עם משלוח אקספרס?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אני רוצה להזמין לאישה, תוך כמה זמן מגיע?",
-    "label": "LEAD"
-  },
-  {
-    "text": "מתי מגיע המלאי החדש? אני מחכה לקנות",
-    "label": "LEAD"
-  },
-  {
-    "text": "price?",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש אפשרות לשלם למשלוחן במזומן?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אחי זה במלאי כרגע?",
-    "label": "LEAD"
-  },
-  {
-    "text": "תגיד אפשר פרטים מלאים על מה זה כולל?",
-    "label": "LEAD"
-  },
-  {
-    "text": "מאיפה קונים???",
-    "label": "LEAD"
-  },
-  {
-    "text": "אפשר לקבל קטלוג בפרטי?",
-    "label": "LEAD"
-  },
-  {
-    "text": "יש כזה גם במידות גדולות יותר? אני אקנה",
-    "label": "LEAD"
-  },
-  {
-    "text": "send me the checkout link",
-    "label": "LEAD"
-  },
-  {
-    "text": "איך אני עושה מנוי שנתי?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אפשר לשלם בביט באתר?",
-    "label": "LEAD"
-  },
-  {
-    "text": "מחכה שיחזור למלאי בשביל להזמין",
-    "label": "LEAD"
-  },
-  {
-    "text": "אח שלי כמה עולה להשכיר את זה?",
-    "label": "LEAD"
-  },
-  {
-    "text": "איפה רואים את המחירים?",
-    "label": "LEAD"
-  },
-  {
-    "text": "אני מעוניין לרכוש, שלחו לי מספר",
-    "label": "LEAD"
-  },
-  {
-    "text": "האתר שלכם נפל לי באמצע התשלום, חויבתי?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אחי אני מנסה להתחבר וזה עושה error 502",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "החבילה שלי הגיעה שבורה פיזדץ!",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "לא קיבלתי אישור הזמנה למייל",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "i forgot my password and reset email is not arriving",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "המסך נתקע לי כל פעם שאני פותחת את האפליקציה",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אי אפשר ללחוץ על הכפתור אישור, זה באג",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "עשיתי טעות בכתובת המשלוח איך משנים?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "הקוד קופון משום מה לא מזדכה בסל",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "why is the site down?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "לא מצליח לשים כרטיס אשראי הוא לא שומר אותו",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אחי זה כבר שבועיים במכס מה נסגר",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "הבאתם לי חולצה לא במידה שלי איזה מעצבן",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "איך אני מוחק את המשתמש שלי?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "where is your customer service number?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אני שולח הודעות בוואטסאפ ולא עונים לי מאתמול",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "האפליקציה פשוט קורסת",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "סליחה אבל המוצר לא נדלק לי בכלל",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "זה עושה לי loading שעה בלי להתקדם",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "help with my account please",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "קיבלתי מייל ביטול למרות שלא ביטלתי",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "עשיתם לי חיוב כפול בחשבון אשראי!",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "הלינק בביו שבור",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "החשבון שלי ננעל פתאום",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "i can't login it says wrong credentials",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "הסרטון של ההדרכה פשוט לא עובד אצלי",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "האוטומציה שעשיתי לא נשלחת",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "שלחתי מוצר חזרה ועוד לא ראיתי זיכוי",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "יש לי שגיאה system error 100",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "my payment failed but money was taken",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "למה אי אפשר לעשות העתק הדבק באתר שלכם?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "לא קיבלתי את הקוד בSMS",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "השרת שלכם איטי ברמות על",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "ניסיתי לשנות סיסמה וזה לא עובד לי",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "how to contact support?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "החלפתי טלפון וזה לא משחזר לי את הרכישות",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "מישהו פרץ לי לחשבון תעזרו לי דחוף",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "קיבלתי משהו אחר לגמרי ממה שהזמנתי",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "יש לי בעיה בחיבור לגוגל בחשבון שלכם",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "the app is buggy",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "הפיצ'ר החדש לא עובד בדפדפן כרום",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "תענו כבר למייל ששלחתי!",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "כל פעם שאני לוחץ על שמור זה מוחק לי הכל",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "אחי לא קיבלתי כרטיסים למייל",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "לא נותן לי לכתוב בעברית בטופס",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "i have a problem with my order",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "מנסה לשלוח פנייה באתר וזה לא שולח",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "שירות לקוחות הכי גרוע שיש, למה לא עונים לטלפון?",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "יש באג מטורף בחיפוש שלכם, לא מוצא כלום",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "תסדרו את הבעיה עם החשבוניות המערכת לא שולחת למייל",
-    "label": "SUPPORT"
-  },
-  {
-    "text": "רוצה להרוויח 20,000 שקל מהספה? שלח הודעה בפרטי",
-    "label": "SPAM"
-  },
-  {
-    "text": "buy active followers real cheap check link in bio",
-    "label": "SPAM"
-  },
-  {
-    "text": "collab? DM us @israel_promote",
-    "label": "SPAM"
-  },
-  {
-    "text": "פתיחת מזל בטארוט החזרת אהבות כנסו",
-    "label": "SPAM"
-  },
-  {
-    "text": "dm me for crypto pump groups",
-    "label": "SPAM"
-  },
-  {
-    "text": "click the link in my bio to see my private photos 💋🔥",
-    "label": "SPAM"
-  },
-  {
-    "text": "הגרלה על אייפון 16!! לייק ותגובה אצלי בעמוד",
-    "label": "SPAM"
-  },
-  {
-    "text": "crypto daily signals check my story",
-    "label": "SPAM"
-  },
-  {
-    "text": "בואו לקבל וי כחול במחיר בדיחה, פרטים בפרטי",
-    "label": "SPAM"
-  },
-  {
-    "text": "promote your reel send it to @viral_hype",
-    "label": "SPAM"
-  },
-  {
-    "text": "רוצים שכל פוסט יגיע לאקספלור? קנו דרכנו שירותי קידום",
-    "label": "SPAM"
-  },
-  {
-    "text": "dm us pic for feature ❤️",
-    "label": "SPAM"
-  },
-  {
-    "text": "fsfdsfdsfsd",
-    "label": "SPAM"
-  },
-  {
-    "text": "hot singles in your area bio link",
-    "label": "SPAM"
-  },
-  {
-    "text": "מחפשת גברים דיסקרטים בואו לסטורי שלי חחח",
-    "label": "SPAM"
-  },
-  {
-    "text": "bitcoin investment return 300% in a week",
-    "label": "SPAM"
-  },
-  {
-    "text": "send it to @huge_israeli_page",
-    "label": "SPAM"
-  },
-  {
-    "text": "בואו להרוויח כסף קל בלי להתאמץ! תשלחו הודעה עכשיו",
-    "label": "SPAM"
-  },
-  {
-    "text": "לייקים ישראלים במחיר של שקל לעוקב",
-    "label": "SPAM"
-  },
-  {
-    "text": "invest in my new coin dm for whitelist",
-    "label": "SPAM"
-  },
-  {
-    "text": "עבודה מהבית 200 דולר ביום",
-    "label": "SPAM"
-  },
-  {
-    "text": "collab dm @brand_ambassadors",
-    "label": "SPAM"
-  },
-  {
-    "text": "קבוצת טלגרם בלי צנזורה כנסו ללינק בביו",
-    "label": "SPAM"
-  },
-  {
-    "text": "i made 10k today ask me how",
-    "label": "SPAM"
-  },
-  {
-    "text": "כנסו עכשיו לעמוד שלי אם אתם רוצים להיות עשירים",
-    "label": "SPAM"
-  },
-  {
-    "text": "שירותי קידום אורגני באינסטגרם בהנחה מטורפת",
-    "label": "SPAM"
-  },
-  {
-    "text": "check bio for spicy content 🌶️",
-    "label": "SPAM"
-  },
-  {
-    "text": "dfgdhfdsgdfg",
-    "label": "SPAM"
-  },
-  {
-    "text": "אנחנו מחפשים שגרירים למותג שלנו, שלחו הודעה!",
-    "label": "SPAM"
-  },
-  {
-    "text": "send us a dm to be a model",
-    "label": "SPAM"
-  },
-  {
-    "text": "מלווה בריבית חוקי אשראי מהיר בלי ערבים",
-    "label": "SPAM"
-  },
-  {
-    "text": "buy verification badge cheap",
-    "label": "SPAM"
-  },
-  {
-    "text": "רוצה להרוויח כסף מהטיקטוק? יש לי קורס בחינם בביו",
-    "label": "SPAM"
-  },
-  {
-    "text": "dm to buy shoutouts",
-    "label": "SPAM"
-  },
-  {
-    "text": "הצטרפו לערוץ הויאיפי שלנו בטלגרם לעדכונים חמים",
-    "label": "SPAM"
-  },
-  {
-    "text": "crypto trading bot 100% win rate",
-    "label": "SPAM"
-  },
-  {
-    "text": "עבודה קלה לנוער מכל הארץ דברו איתי",
-    "label": "SPAM"
-  },
-  {
-    "text": "free likes hack in my bio",
-    "label": "SPAM"
-  },
-  {
-    "text": "תלחצו על הלינק ותקבלו 50$ מתנה",
-    "label": "SPAM"
-  },
-  {
-    "text": "send pic to @repost_hub",
-    "label": "SPAM"
-  },
-  {
-    "text": "קוראת בקפה במחירים שווים לכל כיס",
-    "label": "SPAM"
-  },
-  {
-    "text": "get free followers just download app",
-    "label": "SPAM"
-  },
-  {
-    "text": "הלוואה למוגבלים בבנק אישור מיידי",
-    "label": "SPAM"
-  },
-  {
-    "text": "we love your vibe dm us for collab",
-    "label": "SPAM"
-  },
-  {
-    "text": "רוצה להתעשר? כנס לקישור המצורף בפרופיל שלי",
-    "label": "SPAM"
-  },
-  {
-    "text": "trade forex with me msg me",
-    "label": "SPAM"
-  },
-  {
-    "text": "פרצו לכם לחשבון? אני יכול לפרוץ חזרה רק דברו איתי",
-    "label": "SPAM"
-  },
-  {
-    "text": "only 5$ for 10k followers",
-    "label": "SPAM"
-  },
-  {
-    "text": "בואו להרוויח הכנסה פסיבית עכשיו",
-    "label": "SPAM"
-  },
-  {
-    "text": "we pay you to post on IG dm us",
-    "label": "SPAM"
-  },
-  {
-    "text": "חחחח איזה שרוטים בחיי",
-    "label": "IDLE"
-  },
-  {
-    "text": "וואלה אהבתי רצח",
-    "label": "IDLE"
-  },
-  {
-    "text": "bro you are crazy",
-    "label": "IDLE"
-  },
-  {
-    "text": "פסיכי לחלוטין!",
-    "label": "IDLE"
-  },
-  {
-    "text": "אין עליכם בעולם כולו",
-    "label": "IDLE"
-  },
-  {
-    "text": "🔥🔥🔥 פשוט אש",
-    "label": "IDLE"
-  },
-  {
-    "text": "מתתת מרוב צחוק",
-    "label": "IDLE"
-  },
-  {
-    "text": "omg this is epic",
-    "label": "IDLE"
-  },
-  {
-    "text": "מטורףףףף",
-    "label": "IDLE"
-  },
-  {
-    "text": "איזה יופי של דבר",
-    "label": "IDLE"
-  },
-  {
-    "text": "וואו זה נראה פגז",
-    "label": "IDLE"
-  },
-  {
-    "text": "חזקקקק אחי",
-    "label": "IDLE"
-  },
-  {
-    "text": "lmao ded 💀",
-    "label": "IDLE"
-  },
-  {
-    "text": "לא נושם חחחח",
-    "label": "IDLE"
-  },
-  {
-    "text": "יואוווו איזה סרטון",
-    "label": "IDLE"
-  },
-  {
-    "text": "אחלה גבר שבעולם",
-    "label": "IDLE"
-  },
-  {
-    "text": "שרוף עליכם יא תותחים",
-    "label": "IDLE"
-  },
-  {
-    "text": "wow amazing bro",
-    "label": "IDLE"
-  },
-  {
-    "text": "איזה סטייל מטורף",
-    "label": "IDLE"
-  },
-  {
-    "text": "פיזדץ נדיר!",
-    "label": "IDLE"
-  },
-  {
-    "text": "יא מלךךך",
-    "label": "IDLE"
-  },
-  {
-    "text": "👑👑👑 הכתר שלך",
-    "label": "IDLE"
-  },
-  {
-    "text": "חחחחח הכל מדויק",
-    "label": "IDLE"
-  },
-  {
-    "text": "love it",
-    "label": "IDLE"
-  },
-  {
-    "text": "אהבתי מאוד, נראה מעולה",
-    "label": "IDLE"
-  },
-  {
-    "text": "הלוואי עליי ככה",
-    "label": "IDLE"
-  },
-  {
-    "text": "שברתם אותי עכשיו חחח",
-    "label": "IDLE"
-  },
-  {
-    "text": "sick edit",
-    "label": "IDLE"
-  },
-  {
-    "text": "אלופים, פשוט אלופים",
-    "label": "IDLE"
-  },
-  {
-    "text": "יפה מאוד!",
-    "label": "IDLE"
-  },
-  {
-    "text": "אני עף על זה באוויר",
-    "label": "IDLE"
-  },
-  {
-    "text": "חחח מי הגאון שחשב על זה",
-    "label": "IDLE"
-  },
-  {
-    "text": "that is so cool",
-    "label": "IDLE"
-  },
-  {
-    "text": "טירוףףף",
-    "label": "IDLE"
-  },
-  {
-    "text": "הכי טובים שראיתי",
-    "label": "IDLE"
-  },
-  {
-    "text": "וואלה נותן לכם לייק על זה",
-    "label": "IDLE"
-  },
-  {
-    "text": "אליפות עולם",
-    "label": "IDLE"
-  },
-  {
-    "text": "respect",
-    "label": "IDLE"
-  },
-  {
-    "text": "יא תותחחח אין דברים כאלה",
-    "label": "IDLE"
-  },
-  {
-    "text": "חחחחחח איזה מוגזם",
-    "label": "IDLE"
-  },
-  {
-    "text": "אין מילים פשוט מושלם",
-    "label": "IDLE"
-  },
-  {
-    "text": "אחלה יום יא גבר",
-    "label": "IDLE"
-  },
-  {
-    "text": "so funny lmao",
-    "label": "IDLE"
-  },
-  {
-    "text": "שמעתם פעם על שלמות? זה זה",
-    "label": "IDLE"
-  },
-  {
-    "text": "קטלני אחי",
-    "label": "IDLE"
-  },
-  {
-    "text": "וואווו איזה קונספט מגניב",
-    "label": "IDLE"
-  },
-  {
-    "text": "חחחחח בא לי גם",
-    "label": "IDLE"
-  },
-  {
-    "text": "מדהיםםם פשוט מדהים",
-    "label": "IDLE"
-  }
+    {
+        "text": "כמה עולה אח יקר?",
+        "label": "LEAD"
+    },
+    {
+        "text": "שלח לינק לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "מאיפה קונים את זה??",
+        "label": "LEAD"
+    },
+    {
+        "text": "price bro?",
+        "label": "LEAD"
+    },
+    {
+        "text": "איך מזמינים?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר פרטים?",
+        "label": "LEAD"
+    },
+    {
+        "text": "שלח קישור אחי",
+        "label": "LEAD"
+    },
+    {
+        "text": "דבר אליי במספרים",
+        "label": "LEAD"
+    },
+    {
+        "text": "linkkk please",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש הנחה לעוקבים?",
+        "label": "LEAD"
+    },
+    {
+        "text": "מתי יש מלאי מחדש?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אני רוצה להזמין איך עושים את זה",
+        "label": "LEAD"
+    },
+    {
+        "text": "send link אחי",
+        "label": "LEAD"
+    },
+    {
+        "text": "האתר שלכם קרס לי באמצע ההזמנה",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אחי לא קיבלתי את הקוד למייל",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "יש לכם בעיה באפליקציה",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "how to reset password? לא עובד לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הזמנתי לפני שבוע ועוד לא הגיע מה נסגר",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הקופון לא עובד לי פיזדץ",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "לא מצליח להתחבר למשתמש שלי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "it doesnt work help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אפשר עזרה עם ההתחברות? נתקע לי המסך",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "יש באג בתשלום זה עושה לי שגיאה 404",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שומע אחי יש בעיה קטנה עם המשלוח",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אני מנסה להוריד וזה רושם שגיאה, מה עושים?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "bro האפליקציה פשוט נסגרת לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "buy followers cheap dm me",
+        "label": "SPAM"
+    },
+    {
+        "text": "הרווחתי 5000 דולר ביום כנסו לביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "🔥🔥🔥 hot girls here link in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "sdfsdfsdfds",
+        "label": "SPAM"
+    },
+    {
+        "text": "הלוואה ברגע ללא ערבים דברו איתי",
+        "label": "SPAM"
+    },
+    {
+        "text": "promote it on @big_page",
+        "label": "SPAM"
+    },
+    {
+        "text": "send it to @viral_hebrew",
+        "label": "SPAM"
+    },
+    {
+        "text": "עבודה מהבית קלה ורווחית תשלחו הודעה",
+        "label": "SPAM"
+    },
+    {
+        "text": "dm me for promo",
+        "label": "SPAM"
+    },
+    {
+        "text": "asdkjhasdkhj",
+        "label": "SPAM"
+    },
+    {
+        "text": "Get 10k real followers 10$",
+        "label": "SPAM"
+    },
+    {
+        "text": "עוקבים ולייקים באינסטגרם בזול",
+        "label": "SPAM"
+    },
+    {
+        "text": "חחחחח איזה חזק",
+        "label": "IDLE"
+    },
+    {
+        "text": "אח יקר אתה",
+        "label": "IDLE"
+    },
+    {
+        "text": "🔥❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "פסיכי לגמרי",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח שרוף עליך",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg yes",
+        "label": "IDLE"
+    },
+    {
+        "text": "אין עליכם בעולם",
+        "label": "IDLE"
+    },
+    {
+        "text": "וואו איזה סטייל",
+        "label": "IDLE"
+    },
+    {
+        "text": "פיזדץ איזה יופי",
+        "label": "IDLE"
+    },
+    {
+        "text": "niceee",
+        "label": "IDLE"
+    },
+    {
+        "text": "מתתתת 💀",
+        "label": "IDLE"
+    },
+    {
+        "text": "מטורף אחי יא מלך",
+        "label": "IDLE"
+    },
+    {
+        "text": "מעוניינת, אפשר לינק?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כמה עולה המשלוח?",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד יש מידות נוספות?",
+        "label": "LEAD"
+    },
+    {
+        "text": "how much?",
+        "label": "LEAD"
+    },
+    {
+        "text": "שימו פה קישור לקנייה",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר לשלם בביט?",
+        "label": "LEAD"
+    },
+    {
+        "text": "מאיפה אוספים?",
+        "label": "LEAD"
+    },
+    {
+        "text": "where to buy?",
+        "label": "LEAD"
+    },
+    {
+        "text": "איך אפשר להזמין את זה למרכז?",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש במלאי גם בצבע שחור?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אני מנסה לקנות וזה נתקע לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "היי לא ענו לי בשירות לקוחות",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הקוד קופון פג תוקף",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אפשר לבטל הזמנה שעשיתי הרגע?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "יש לי בעיה עם הלינק בביו",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "how can I return this?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "לא קיבלתי אישור למייל",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "זה מראה לי שגיאה 500",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "המשלוח שלי היה אמור להגיע אתמול",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אני רושם את הסיסמה וזה לא נותן לי להיכנס",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "רוצה לעשות כסף קל? כנס עכשיו",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest in crypto now send dm",
+        "label": "SPAM"
+    },
+    {
+        "text": "free followers and likes !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "vdfjvnkjdfvn",
+        "label": "SPAM"
+    },
+    {
+        "text": "הרווחתי מיליונים תשלחו לי הודעה",
+        "label": "SPAM"
+    },
+    {
+        "text": "promote your page here",
+        "label": "SPAM"
+    },
+    {
+        "text": "בוטים לאינסטגרם בהנחה",
+        "label": "SPAM"
+    },
+    {
+        "text": "check out my crazy story",
+        "label": "SPAM"
+    },
+    {
+        "text": "הגרלה מטורפת אצלי בעמוד!!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "djfhsdkfjhsd",
+        "label": "SPAM"
+    },
+    {
+        "text": "אין דברים כאלה",
+        "label": "IDLE"
+    },
+    {
+        "text": "חיים שלי אתה",
+        "label": "IDLE"
+    },
+    {
+        "text": "wow amazing",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחחחחח איזה גבר",
+        "label": "IDLE"
+    },
+    {
+        "text": "שרוף עליך אח יקר",
+        "label": "IDLE"
+    },
+    {
+        "text": "🔥🔥🔥🔥🔥",
+        "label": "IDLE"
+    },
+    {
+        "text": "פסיכיייי",
+        "label": "IDLE"
+    },
+    {
+        "text": "אהבתי בטירוף",
+        "label": "IDLE"
+    },
+    {
+        "text": "תותח מלידה",
+        "label": "IDLE"
+    },
+    {
+        "text": "lmao",
+        "label": "IDLE"
+    },
+    {
+        "text": "כמה עולה משלוח לתל אביב?",
+        "label": "LEAD"
+    },
+    {
+        "text": "איך אני מזמין את החולצה הלבנה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש את זה בעוד צבעים?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר לקבל לינק לקנייה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כמה עולה אחי?",
+        "label": "LEAD"
+    },
+    {
+        "text": "price please",
+        "label": "LEAD"
+    },
+    {
+        "text": "שלח פרטים בפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "מתי זה חוזר למלאי???",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש לכם קוד קופון?",
+        "label": "LEAD"
+    },
+    {
+        "text": "מאיפה אוספים את זה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר לשלם בביט או פייבוקס?",
+        "label": "LEAD"
+    },
+    {
+        "text": "תשלח לי לינק מהר אני רוצה לקנות",
+        "label": "LEAD"
+    },
+    {
+        "text": "האם יש משלוחים גם לצפון?",
+        "label": "LEAD"
+    },
+    {
+        "text": "how much for the whole set?",
+        "label": "LEAD"
+    },
+    {
+        "text": "שלח הודעה בפרטי לגבי מחירים",
+        "label": "LEAD"
+    },
+    {
+        "text": "איפה קונים את זה כפרה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אני חייבת כזה! מאיפה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש מידה לארג' מזה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "דבר איתי כמה עולה",
+        "label": "LEAD"
+    },
+    {
+        "text": "link in dm plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "היי מתי יהיה זמין שוב בסניף?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר להזמין עכשיו ולקבל מחר?",
+        "label": "LEAD"
+    },
+    {
+        "text": "איך נרשמים לתוכנית שלכם?",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש הנחת חיילים?",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד יש תשלומים ללא ריבית?",
+        "label": "LEAD"
+    },
+    {
+        "text": "הזמנתי לפני שבועיים ועוד לא קיבלתי אישור!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אחי הלינק שבור לא עובד לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "איך אני מבטל את ההזמנה שעשיתי הרגע?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שלחתי לכם הודעה בוואטסאפ ולא עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "יש באג באפליקציה זה קורס לי בכניסה",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "לא מצליח לשחזר סיסמה",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "my package didn't arrive",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תענו בשירות לקוחות אני מחכה שעה",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "חויבתי פעמיים באשראי למה זה???",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "איך מחזירים מוצר פגום?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "האתר שלכם קרס באמצע התשלום איזה פיזדץ",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אני מנסה להתחבר וזה כותב שגיאה 500",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "לא עובד לי הקופון שפרסמתם",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "help my app is crashing",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "היי המשלוח שלי הגיע קרוע, מה עושים?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אפשר לדבר עם נציג אנושי?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הורדתי את התוכנה וזה לא נפתח במק",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שכחתי את המייל שלי למערכת, איך מסדרים את זה?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שגיאה 404 כשאני לוחץ על הקישור לקנייה",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "i need technical support please",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "המוצר הגיע במידה לא נכונה!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שלחתי מייל ועדיין אין תשובה...",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה התשלום בפייפאל נכשל כל הזמן?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "יש לכם מספר טלפון לשירות?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "המערכת שלכם איטית בטירוף אי אפשר לעבוד ככה",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "כנסו לקישור בביו שלי לעוקבים בחינם!",
+        "label": "SPAM"
+    },
+    {
+        "text": "collab? dm us immediately",
+        "label": "SPAM"
+    },
+    {
+        "text": "send pic to @big_brand_pages",
+        "label": "SPAM"
+    },
+    {
+        "text": "רוצה לעשות 10,000 שקל בחודש מהבית? כנסו לסטורי שלי",
+        "label": "SPAM"
+    },
+    {
+        "text": "dm me for crypto tips and tricks",
+        "label": "SPAM"
+    },
+    {
+        "text": "fsdfsdfsdfs",
+        "label": "SPAM"
+    },
+    {
+        "text": "get verified for cheap. link in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "הלוואות בלי ערבים שלחו הודעה",
+        "label": "SPAM"
+    },
+    {
+        "text": "promote it on @israel_viral",
+        "label": "SPAM"
+    },
+    {
+        "text": "hot girls in my bio check it out 🔥🔥🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "עוקבים ולייקים באינסטגרם בהנחה מטורפת",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest 50$ get 5000$ msg me",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy fast followers and views link in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "sdasdsa asdsd",
+        "label": "SPAM"
+    },
+    {
+        "text": "קבוצת טלגרם סודית להרוויח מיליונים - לינק בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "DM @promote_page_2026 to get featured!",
+        "label": "SPAM"
+    },
+    {
+        "text": "vfvbfbfbfbf",
+        "label": "SPAM"
+    },
+    {
+        "text": "פתיחת מזל והחזרת אהבות דברו איתי",
+        "label": "SPAM"
+    },
+    {
+        "text": "win a free iphone just click the link",
+        "label": "SPAM"
+    },
+    {
+        "text": "בוטים ושרתים לאינסטגרם - מחיר רצפה",
+        "label": "SPAM"
+    },
+    {
+        "text": "message for shoutout and promos",
+        "label": "SPAM"
+    },
+    {
+        "text": "crypto trading bot is live see my stories",
+        "label": "SPAM"
+    },
+    {
+        "text": "עבודה מהבית שעתיים ביום 20 אלף שקל בחודש שלחו פרטי",
+        "label": "SPAM"
+    },
+    {
+        "text": "increase your reach with us DM NOW",
+        "label": "SPAM"
+    },
+    {
+        "text": "הרווחתי מלא כסף תודה לאל תבדקו את הפרופיל",
+        "label": "SPAM"
+    },
+    {
+        "text": "חחחחחח שרוף עליך!",
+        "label": "IDLE"
+    },
+    {
+        "text": "פסיכי לגמרי אחי",
+        "label": "IDLE"
+    },
+    {
+        "text": "אח יקר אתה אין דברים כאלה",
+        "label": "IDLE"
+    },
+    {
+        "text": "😍😍😍😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "וואלה אתה גאון",
+        "label": "IDLE"
+    },
+    {
+        "text": "מתתתת עליך",
+        "label": "IDLE"
+    },
+    {
+        "text": "lmao this is too good",
+        "label": "IDLE"
+    },
+    {
+        "text": "פיזדץ מטורף!",
+        "label": "IDLE"
+    },
+    {
+        "text": "חיים שלי אהבתי רצח",
+        "label": "IDLE"
+    },
+    {
+        "text": "🔥❤️🔥❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "איזה מלך וואו",
+        "label": "IDLE"
+    },
+    {
+        "text": "הרגת אותי מצחוק חחחח",
+        "label": "IDLE"
+    },
+    {
+        "text": "niceeeeee",
+        "label": "IDLE"
+    },
+    {
+        "text": "שמע זה אדיר",
+        "label": "IDLE"
+    },
+    {
+        "text": "omggg yes",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו מטורףףף",
+        "label": "IDLE"
+    },
+    {
+        "text": "וואו איזה סטייל 👑",
+        "label": "IDLE"
+    },
+    {
+        "text": "חזק ביותר",
+        "label": "IDLE"
+    },
+    {
+        "text": "יא אללה איזה רמה",
+        "label": "IDLE"
+    },
+    {
+        "text": "love ittt",
+        "label": "IDLE"
+    },
+    {
+        "text": "בוכה מרוב צחוק",
+        "label": "IDLE"
+    },
+    {
+        "text": "שברת את הרשת אחי",
+        "label": "IDLE"
+    },
+    {
+        "text": "💯💯💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "כמה עלה לכם לייצר את זה? רוצה לקנות בסיטונאות",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי איפה החנות שלכם ממוקמת?",
+        "label": "LEAD"
+    },
+    {
+        "text": "how much is it with delivery?",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש את זה במידה M?",
+        "label": "LEAD"
+    },
+    {
+        "text": "וואלה אהבתי, אפשר לשלם בהעברה בנקאית?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כמה זמן לוקח משלוח לירושלים?",
+        "label": "LEAD"
+    },
+    {
+        "text": "send link for purchase plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר פרטים על הקורס בפרטי?",
+        "label": "LEAD"
+    },
+    {
+        "text": "איך נרשמים אחים שלי?",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש לכם קוד קופון של משפיענים אולי?",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד אם אני לוקח 2 יש הנחה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "where can i buy this??",
+        "label": "LEAD"
+    },
+    {
+        "text": "איך אני מזמינה כזה בורוד?",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש אחריות על המוצר הזה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "מתי אתם פתוחים ביום שישי בא לי לבוא לקנות",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר לינק בפרטי בבקשה? אני לא מוצאת באתר",
+        "label": "LEAD"
+    },
+    {
+        "text": "I want to buy this right now",
+        "label": "LEAD"
+    },
+    {
+        "text": "שלח לי בפרטי מספר טלפון להזמנות",
+        "label": "LEAD"
+    },
+    {
+        "text": "האם זה מתאים גם לגברים?",
+        "label": "LEAD"
+    },
+    {
+        "text": "מחיר כפרה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כמה עולה סט שלם?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר לשלם בתשלומים?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי יש לכם משלוחים מעבר לקו הירוק?",
+        "label": "LEAD"
+    },
+    {
+        "text": "is there a black friday discount?",
+        "label": "LEAD"
+    },
+    {
+        "text": "וואו איך אני משיג את זה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגידו מי מכין את זה? אפשר להזמין עיצוב אישי?",
+        "label": "LEAD"
+    },
+    {
+        "text": "מה המחיר של השחור?",
+        "label": "LEAD"
+    },
+    {
+        "text": "link plsss",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש החזרות במידה וזה לא מתאים?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה שלח קישור לאתר",
+        "label": "LEAD"
+    },
+    {
+        "text": "איך אני מוסיף את זה לעגלה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש איסוף עצמי מראשון לציון?",
+        "label": "LEAD"
+    },
+    {
+        "text": "how to order?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כמה זה יוצא עם משלוח אקספרס?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אני רוצה להזמין לאישה, תוך כמה זמן מגיע?",
+        "label": "LEAD"
+    },
+    {
+        "text": "מתי מגיע המלאי החדש? אני מחכה לקנות",
+        "label": "LEAD"
+    },
+    {
+        "text": "price?",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש אפשרות לשלם למשלוחן במזומן?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי זה במלאי כרגע?",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד אפשר פרטים מלאים על מה זה כולל?",
+        "label": "LEAD"
+    },
+    {
+        "text": "מאיפה קונים???",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר לקבל קטלוג בפרטי?",
+        "label": "LEAD"
+    },
+    {
+        "text": "יש כזה גם במידות גדולות יותר? אני אקנה",
+        "label": "LEAD"
+    },
+    {
+        "text": "send me the checkout link",
+        "label": "LEAD"
+    },
+    {
+        "text": "איך אני עושה מנוי שנתי?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר לשלם בביט באתר?",
+        "label": "LEAD"
+    },
+    {
+        "text": "מחכה שיחזור למלאי בשביל להזמין",
+        "label": "LEAD"
+    },
+    {
+        "text": "אח שלי כמה עולה להשכיר את זה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "איפה רואים את המחירים?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אני מעוניין לרכוש, שלחו לי מספר",
+        "label": "LEAD"
+    },
+    {
+        "text": "האתר שלכם נפל לי באמצע התשלום, חויבתי?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אחי אני מנסה להתחבר וזה עושה error 502",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "החבילה שלי הגיעה שבורה פיזדץ!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "לא קיבלתי אישור הזמנה למייל",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "i forgot my password and reset email is not arriving",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "המסך נתקע לי כל פעם שאני פותחת את האפליקציה",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אי אפשר ללחוץ על הכפתור אישור, זה באג",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "עשיתי טעות בכתובת המשלוח איך משנים?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הקוד קופון משום מה לא מזדכה בסל",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "why is the site down?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "לא מצליח לשים כרטיס אשראי הוא לא שומר אותו",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אחי זה כבר שבועיים במכס מה נסגר",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הבאתם לי חולצה לא במידה שלי איזה מעצבן",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "איך אני מוחק את המשתמש שלי?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "where is your customer service number?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אני שולח הודעות בוואטסאפ ולא עונים לי מאתמול",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "האפליקציה פשוט קורסת",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סליחה אבל המוצר לא נדלק לי בכלל",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "זה עושה לי loading שעה בלי להתקדם",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "help with my account please",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "קיבלתי מייל ביטול למרות שלא ביטלתי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "עשיתם לי חיוב כפול בחשבון אשראי!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלינק בביו שבור",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "החשבון שלי ננעל פתאום",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "i can't login it says wrong credentials",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הסרטון של ההדרכה פשוט לא עובד אצלי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "האוטומציה שעשיתי לא נשלחת",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שלחתי מוצר חזרה ועוד לא ראיתי זיכוי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "יש לי שגיאה system error 100",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "my payment failed but money was taken",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה אי אפשר לעשות העתק הדבק באתר שלכם?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "לא קיבלתי את הקוד בSMS",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "השרת שלכם איטי ברמות על",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "ניסיתי לשנות סיסמה וזה לא עובד לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "how to contact support?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "החלפתי טלפון וזה לא משחזר לי את הרכישות",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "מישהו פרץ לי לחשבון תעזרו לי דחוף",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "קיבלתי משהו אחר לגמרי ממה שהזמנתי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "יש לי בעיה בחיבור לגוגל בחשבון שלכם",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "the app is buggy",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הפיצ'ר החדש לא עובד בדפדפן כרום",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תענו כבר למייל ששלחתי!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "כל פעם שאני לוחץ על שמור זה מוחק לי הכל",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אחי לא קיבלתי כרטיסים למייל",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "לא נותן לי לכתוב בעברית בטופס",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "i have a problem with my order",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "מנסה לשלוח פנייה באתר וזה לא שולח",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שירות לקוחות הכי גרוע שיש, למה לא עונים לטלפון?",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "יש באג מטורף בחיפוש שלכם, לא מוצא כלום",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תסדרו את הבעיה עם החשבוניות המערכת לא שולחת למייל",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "רוצה להרוויח 20,000 שקל מהספה? שלח הודעה בפרטי",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy active followers real cheap check link in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "collab? DM us @israel_promote",
+        "label": "SPAM"
+    },
+    {
+        "text": "פתיחת מזל בטארוט החזרת אהבות כנסו",
+        "label": "SPAM"
+    },
+    {
+        "text": "dm me for crypto pump groups",
+        "label": "SPAM"
+    },
+    {
+        "text": "click the link in my bio to see my private photos 💋🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "הגרלה על אייפון 16!! לייק ותגובה אצלי בעמוד",
+        "label": "SPAM"
+    },
+    {
+        "text": "crypto daily signals check my story",
+        "label": "SPAM"
+    },
+    {
+        "text": "בואו לקבל וי כחול במחיר בדיחה, פרטים בפרטי",
+        "label": "SPAM"
+    },
+    {
+        "text": "promote your reel send it to @viral_hype",
+        "label": "SPAM"
+    },
+    {
+        "text": "רוצים שכל פוסט יגיע לאקספלור? קנו דרכנו שירותי קידום",
+        "label": "SPAM"
+    },
+    {
+        "text": "dm us pic for feature ❤️",
+        "label": "SPAM"
+    },
+    {
+        "text": "fsfdsfdsfsd",
+        "label": "SPAM"
+    },
+    {
+        "text": "hot singles in your area bio link",
+        "label": "SPAM"
+    },
+    {
+        "text": "מחפשת גברים דיסקרטים בואו לסטורי שלי חחח",
+        "label": "SPAM"
+    },
+    {
+        "text": "bitcoin investment return 300% in a week",
+        "label": "SPAM"
+    },
+    {
+        "text": "send it to @huge_israeli_page",
+        "label": "SPAM"
+    },
+    {
+        "text": "בואו להרוויח כסף קל בלי להתאמץ! תשלחו הודעה עכשיו",
+        "label": "SPAM"
+    },
+    {
+        "text": "לייקים ישראלים במחיר של שקל לעוקב",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest in my new coin dm for whitelist",
+        "label": "SPAM"
+    },
+    {
+        "text": "עבודה מהבית 200 דולר ביום",
+        "label": "SPAM"
+    },
+    {
+        "text": "collab dm @brand_ambassadors",
+        "label": "SPAM"
+    },
+    {
+        "text": "קבוצת טלגרם בלי צנזורה כנסו ללינק בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "i made 10k today ask me how",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו עכשיו לעמוד שלי אם אתם רוצים להיות עשירים",
+        "label": "SPAM"
+    },
+    {
+        "text": "שירותי קידום אורגני באינסטגרם בהנחה מטורפת",
+        "label": "SPAM"
+    },
+    {
+        "text": "check bio for spicy content 🌶️",
+        "label": "SPAM"
+    },
+    {
+        "text": "dfgdhfdsgdfg",
+        "label": "SPAM"
+    },
+    {
+        "text": "אנחנו מחפשים שגרירים למותג שלנו, שלחו הודעה!",
+        "label": "SPAM"
+    },
+    {
+        "text": "send us a dm to be a model",
+        "label": "SPAM"
+    },
+    {
+        "text": "מלווה בריבית חוקי אשראי מהיר בלי ערבים",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy verification badge cheap",
+        "label": "SPAM"
+    },
+    {
+        "text": "רוצה להרוויח כסף מהטיקטוק? יש לי קורס בחינם בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "dm to buy shoutouts",
+        "label": "SPAM"
+    },
+    {
+        "text": "הצטרפו לערוץ הויאיפי שלנו בטלגרם לעדכונים חמים",
+        "label": "SPAM"
+    },
+    {
+        "text": "crypto trading bot 100% win rate",
+        "label": "SPAM"
+    },
+    {
+        "text": "עבודה קלה לנוער מכל הארץ דברו איתי",
+        "label": "SPAM"
+    },
+    {
+        "text": "free likes hack in my bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "תלחצו על הלינק ותקבלו 50$ מתנה",
+        "label": "SPAM"
+    },
+    {
+        "text": "send pic to @repost_hub",
+        "label": "SPAM"
+    },
+    {
+        "text": "קוראת בקפה במחירים שווים לכל כיס",
+        "label": "SPAM"
+    },
+    {
+        "text": "get free followers just download app",
+        "label": "SPAM"
+    },
+    {
+        "text": "הלוואה למוגבלים בבנק אישור מיידי",
+        "label": "SPAM"
+    },
+    {
+        "text": "we love your vibe dm us for collab",
+        "label": "SPAM"
+    },
+    {
+        "text": "רוצה להתעשר? כנס לקישור המצורף בפרופיל שלי",
+        "label": "SPAM"
+    },
+    {
+        "text": "trade forex with me msg me",
+        "label": "SPAM"
+    },
+    {
+        "text": "פרצו לכם לחשבון? אני יכול לפרוץ חזרה רק דברו איתי",
+        "label": "SPAM"
+    },
+    {
+        "text": "only 5$ for 10k followers",
+        "label": "SPAM"
+    },
+    {
+        "text": "בואו להרוויח הכנסה פסיבית עכשיו",
+        "label": "SPAM"
+    },
+    {
+        "text": "we pay you to post on IG dm us",
+        "label": "SPAM"
+    },
+    {
+        "text": "חחחח איזה שרוטים בחיי",
+        "label": "IDLE"
+    },
+    {
+        "text": "וואלה אהבתי רצח",
+        "label": "IDLE"
+    },
+    {
+        "text": "bro you are crazy",
+        "label": "IDLE"
+    },
+    {
+        "text": "פסיכי לחלוטין!",
+        "label": "IDLE"
+    },
+    {
+        "text": "אין עליכם בעולם כולו",
+        "label": "IDLE"
+    },
+    {
+        "text": "🔥🔥🔥 פשוט אש",
+        "label": "IDLE"
+    },
+    {
+        "text": "מתתת מרוב צחוק",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg this is epic",
+        "label": "IDLE"
+    },
+    {
+        "text": "מטורףףףף",
+        "label": "IDLE"
+    },
+    {
+        "text": "איזה יופי של דבר",
+        "label": "IDLE"
+    },
+    {
+        "text": "וואו זה נראה פגז",
+        "label": "IDLE"
+    },
+    {
+        "text": "חזקקקק אחי",
+        "label": "IDLE"
+    },
+    {
+        "text": "lmao ded 💀",
+        "label": "IDLE"
+    },
+    {
+        "text": "לא נושם חחחח",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואוווו איזה סרטון",
+        "label": "IDLE"
+    },
+    {
+        "text": "אחלה גבר שבעולם",
+        "label": "IDLE"
+    },
+    {
+        "text": "שרוף עליכם יא תותחים",
+        "label": "IDLE"
+    },
+    {
+        "text": "wow amazing bro",
+        "label": "IDLE"
+    },
+    {
+        "text": "איזה סטייל מטורף",
+        "label": "IDLE"
+    },
+    {
+        "text": "פיזדץ נדיר!",
+        "label": "IDLE"
+    },
+    {
+        "text": "יא מלךךך",
+        "label": "IDLE"
+    },
+    {
+        "text": "👑👑👑 הכתר שלך",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחחחח הכל מדויק",
+        "label": "IDLE"
+    },
+    {
+        "text": "love it",
+        "label": "IDLE"
+    },
+    {
+        "text": "אהבתי מאוד, נראה מעולה",
+        "label": "IDLE"
+    },
+    {
+        "text": "הלוואי עליי ככה",
+        "label": "IDLE"
+    },
+    {
+        "text": "שברתם אותי עכשיו חחח",
+        "label": "IDLE"
+    },
+    {
+        "text": "sick edit",
+        "label": "IDLE"
+    },
+    {
+        "text": "אלופים, פשוט אלופים",
+        "label": "IDLE"
+    },
+    {
+        "text": "יפה מאוד!",
+        "label": "IDLE"
+    },
+    {
+        "text": "אני עף על זה באוויר",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח מי הגאון שחשב על זה",
+        "label": "IDLE"
+    },
+    {
+        "text": "that is so cool",
+        "label": "IDLE"
+    },
+    {
+        "text": "טירוףףף",
+        "label": "IDLE"
+    },
+    {
+        "text": "הכי טובים שראיתי",
+        "label": "IDLE"
+    },
+    {
+        "text": "וואלה נותן לכם לייק על זה",
+        "label": "IDLE"
+    },
+    {
+        "text": "אליפות עולם",
+        "label": "IDLE"
+    },
+    {
+        "text": "respect",
+        "label": "IDLE"
+    },
+    {
+        "text": "יא תותחחח אין דברים כאלה",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחחחחח איזה מוגזם",
+        "label": "IDLE"
+    },
+    {
+        "text": "אין מילים פשוט מושלם",
+        "label": "IDLE"
+    },
+    {
+        "text": "אחלה יום יא גבר",
+        "label": "IDLE"
+    },
+    {
+        "text": "so funny lmao",
+        "label": "IDLE"
+    },
+    {
+        "text": "שמעתם פעם על שלמות? זה זה",
+        "label": "IDLE"
+    },
+    {
+        "text": "קטלני אחי",
+        "label": "IDLE"
+    },
+    {
+        "text": "וואווו איזה קונספט מגניב",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחחחח בא לי גם",
+        "label": "IDLE"
+    },
+    {
+        "text": "מדהיםםם פשוט מדהים",
+        "label": "IDLE"
+    },
+    {
+        "text": "כמה עולה מהר brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד mehir להיום לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה link יש הנחה plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי mehir",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי כמה עולה",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה כמה עולה יש הנחה לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד link להיום ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד לינק",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי כמה עולה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה מכיר plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד link יש הנחה",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow לינק יש הנחה brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow מכיר brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? משלוח מהר brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה mishloah plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "כמה עולה להיום לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה mehir מהר ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow איך מזמינים plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה מחיר להיום",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? link brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה mehir לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי איך מזמינים יש הנחה",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow משלוח עכשיו plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי מכיר עכשיו?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? link יש הנחה brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי משלוח יש הנחה ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה כמה עולה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "mishloah להיום פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה מכיר יש הנחה plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow מחיר brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה לינק plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "משלוח יש הנחה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה כמה עולה להיום plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow כמה עולה להיום?",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד כמה plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow מחיר מהר brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה mishloah מהר לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? mishloah מהר brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow מכיר",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה mishloah עכשיו?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה איך מזמינים מהר brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד link פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי כמה עכשיו",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? משלוח עכשיו פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "mehir",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד מחיר מהר לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "mehir מהר?",
+        "label": "LEAD"
+    },
+    {
+        "text": "איך מזמינים לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה כמה עולה יש הנחה brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה מחיר מהר ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה משלוח מהר?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי כמה עולה יש הנחה plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה כמה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי how much",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה mehir",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי כמה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה לינק יש הנחה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה לינק פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי how much יש הנחה plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד מחיר להיום brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow how much להיום brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה משלוח מהר plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד איך מזמינים עכשיו",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה מכיר לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "link עכשיו פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? לינק brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow כמה מהר plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? mishloah brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי mishloah לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "לינק plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה link פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי כמה מהר לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי מחיר יש הנחה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה מכיר",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow איך מזמינים להיום",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה איך מזמינים מהר plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי כמה plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה כמה עולה פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי link יש הנחה לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי מכיר brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "איך מזמינים עכשיו לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? מכיר brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד משלוח פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד משלוח להיום plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow איך מזמינים מהר plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה כמה עולה יש הנחה ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה link מהר פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי מכיר?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? mishloah plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? משלוח ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי mehir להיום פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה מכיר brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "mishloah מהר ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? לינק",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow מחיר עכשיו",
+        "label": "LEAD"
+    },
+    {
+        "text": "משלוח פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה מכיר מהר",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow איך מזמינים לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה mehir מהר?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כמה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד link להיום לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow משלוח מהר plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "כמה עולה מהר פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow כמה עכשיו ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה כמה יש הנחה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow כמה עולה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow לינק brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה link להיום?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי לינק ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? link יש הנחה ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי משלוח brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "משלוח עכשיו",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי כמה מהר פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי כמה להיום",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי כמה מהר",
+        "label": "LEAD"
+    },
+    {
+        "text": "מכיר יש הנחה?",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? כמה עולה",
+        "label": "LEAD"
+    },
+    {
+        "text": "משלוח מהר",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה כמה plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד מחיר מהר פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow לינק מהר brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה כמה עולה מהר",
+        "label": "LEAD"
+    },
+    {
+        "text": "משלוח להיום brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow מחיר פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? לינק ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי איך מזמינים יש הנחה לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה כמה ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי איך מזמינים עכשיו פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow משלוח עכשיו brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה mehir יש הנחה brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "wow משלוח פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי מכיר להיום פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "איך מזמינים להיום plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "מחיר פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי איך מזמינים ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה לינק?",
+        "label": "LEAD"
+    },
+    {
+        "text": "נשמה מחיר מהר פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד כמה לפרטי",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד מחיר",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה link brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד לינק להיום",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד mehir פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? לינק להיום ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "אפשר שאלה? mehir פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי כמה עולה להיום?",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה link מהר ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה משלוח מהר plz",
+        "label": "LEAD"
+    },
+    {
+        "text": "אחי איך מזמינים עכשיו?",
+        "label": "LEAD"
+    },
+    {
+        "text": "תגיד משלוח להיום ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "כפרה איך מזמינים להיום ??",
+        "label": "LEAD"
+    },
+    {
+        "text": "mishloah brother",
+        "label": "LEAD"
+    },
+    {
+        "text": "how much מהר פליז",
+        "label": "LEAD"
+    },
+    {
+        "text": "הלו אין מענה help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק לא עובד בכרום",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף bag מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו error מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה bag כבר שבוע !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו שגיאה 500 באתר help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק שגיאה 500 אתמול תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "לא עובד!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה שגיאה 500 אתמול מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו שגיאה 500 !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו לא עובד מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו אין מענה בכרום!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף אין מענה תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf שירות פח בכרום תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף שגיאה 500 מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף שגיאה 500 באתר",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה lo oved תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "באג!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf אין מענה באתר help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק error!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה אין מענה כבר שבוע!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה נשבר לי באתר מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק שירות פח בכרום help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו נשבר לי help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אין מענה מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו אין מענה תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שגיאה 500 אתמול",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf באג באתר תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו נשבר לי באתר תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו bag תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק bag אתמול",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf שירות פח אתמול",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף לא עובד",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף bag בכרום תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק באג כבר שבוע מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו lo oved!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף bag !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה לא קיבלתי באתר help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה אין מענה מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף error באתר!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf לא עובד",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו אין מענה",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו לא עובד!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שירות פח בכרום",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו נשבר לי אתמול תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf נשבר לי אתמול מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק לא עובד",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה bag מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שגיאה 500 באתר",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו נשבר לי כבר שבוע !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף error תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף שירות פח כבר שבוע!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף שגיאה 500 באתר !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף אין מענה!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו לא עובד תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו שגיאה 500 באתר תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf error help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף שגיאה 500 באתר!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה לא קיבלתי בכרום!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה אין מענה !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו באג !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו נשבר לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו lo oved באתר help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק לא עובד כבר שבוע תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף באג אתמול מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "error בכרום",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף לא קיבלתי !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו לא קיבלתי תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק error כבר שבוע מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שגיאה 500 help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה error אתמול",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf error באתר מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף נשבר לי !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה באג באתר מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו אין מענה!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו lo oved כבר שבוע !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו באג!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה אין מענה",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו bag כבר שבוע help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה לא קיבלתי !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו באג אתמול help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf lo oved בכרום !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה שירות פח !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו אין מענה בכרום תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf שגיאה 500",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה bag !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אין מענה כבר שבוע מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf לא קיבלתי help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf לא עובד אתמול!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף נשבר לי תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה bag",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק lo oved",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק באג !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף לא קיבלתי אתמול!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה שירות פח בכרום מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק נשבר לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf שגיאה 500 תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf אין מענה באתר מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו באג אתמול !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שירות פח בכרום!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו נשבר לי כבר שבוע",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק לא עובד תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf אין מענה כבר שבוע מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו lo oved help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אין מענה באתר !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו לא קיבלתי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "bag!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו error !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק לא קיבלתי כבר שבוע תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו אין מענה כבר שבוע מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו שירות פח כבר שבוע help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף נשבר לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף נשבר לי מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק bag !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף שירות פח אתמול מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף נשבר לי אתמול !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שגיאה 500 בכרום",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו error מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה שירות פח מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק שגיאה 500",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק error בכרום מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו לא קיבלתי כבר שבוע מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק שגיאה 500!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "באג תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה bag תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf error תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf bag!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו שגיאה 500 כבר שבוע תעזרו לי",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf error !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה נשבר לי אתמול מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו bag באתר help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק לא עובד help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו לא קיבלתי כבר שבוע!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf error באתר",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף באג באתר !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה bag בכרום מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף לא עובד בכרום!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה אין מענה בכרום מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף bag",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו לא עובד",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו שירות פח",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אוף error אתמול",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "הלו bag אתמול!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "error כבר שבוע !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "wtf לא עובד !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו לא קיבלתי בכרום !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו אין מענה מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "אין מענה אתמול",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "שירות פח מתי עונים",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "תגידו error אתמול help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "סעמק bag בכרום help",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "למה נשבר לי !!",
+        "label": "SUPPORT"
+    },
+    {
+        "text": "invest עוקב על עוקב !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו עבודה מהבית בחינם in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים likes 100% in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו לייקים מהר 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow onlyfans עכשיו בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "free כסף קל בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "likes מהר 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "לייקים DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow likes בחינם 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow likes מהר !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest ביטקוין בחינם 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "likes 100% 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow crypto in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים עוקב על עוקב 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest likes בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו onlyfans מהר !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "עוקב על עוקב",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy עבודה מהבית בחינם",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים ביטקוין DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy עבודה מהבית DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy bitcoin in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים עוקב על עוקב בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow ביטקוין בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy likes 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים עבודה מהבית מהר DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow onlyfans מהר DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "free כסף קל עכשיו בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "crypto בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "free ביטקוין 100% DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest bitcoin מהר in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "עוקב על עוקב בחינם 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy לייקים 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "free crypto בחינם !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow עוקב על עוקב 100% 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו likes in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים לייקים מהר 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "כסף קל בחינם בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow עבודה מהבית 100%",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy bitcoin מהר",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים onlyfans עכשיו 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow כסף קל DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest onlyfans מהר 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy likes עכשיו בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest ביטקוין מהר DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow כסף קל 100% !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים onlyfans בחינם in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים onlyfans 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "free bitcoin 100% !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest likes 100% in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy bitcoin DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "crypto in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest לייקים DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy כסף קל בחינם !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest עבודה מהבית 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow ביטקוין",
+        "label": "SPAM"
+    },
+    {
+        "text": "crypto !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy crypto in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "free crypto 100% DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest עבודה מהבית 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "free ביטקוין עכשיו 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy bitcoin מהר DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow crypto 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "likes 100%",
+        "label": "SPAM"
+    },
+    {
+        "text": "free likes מהר in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy לייקים עכשיו",
+        "label": "SPAM"
+    },
+    {
+        "text": "free לייקים בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו כסף קל DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו crypto 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy עבודה מהבית מהר DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו לייקים in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow לייקים בחינם 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow onlyfans 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy עוקב על עוקב עכשיו in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים עבודה מהבית עכשיו בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest likes בחינם !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "bitcoin 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow crypto בחינם in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest לייקים בחינם",
+        "label": "SPAM"
+    },
+    {
+        "text": "ביטקוין !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "עבודה מהבית עכשיו in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו עוקב על עוקב",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest עוקב על עוקב 100% !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest לייקים בחינם 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest bitcoin",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow crypto 100% בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow עוקב על עוקב 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "לייקים 100% בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "עבודה מהבית in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים ביטקוין !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest ביטקוין עכשיו",
+        "label": "SPAM"
+    },
+    {
+        "text": "free bitcoin 100% DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "free לייקים עכשיו DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest עבודה מהבית עכשיו in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "עבודה מהבית מהר in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy crypto 100% בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow כסף קל בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow crypto מהר !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים עבודה מהבית in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy likes 100% in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow onlyfans 100% בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "bitcoin !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy onlyfans מהר 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו לייקים מהר !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "עוקב על עוקב בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow ביטקוין 100% 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "free bitcoin עכשיו 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "ביטקוין בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים likes 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים likes 100% 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy עוקב על עוקב in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים כסף קל עכשיו 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy עוקב על עוקב",
+        "label": "SPAM"
+    },
+    {
+        "text": "free לייקים בחינם בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow עבודה מהבית מהר",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest עבודה מהבית DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "עוקב על עוקב 100%",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest bitcoin מהר",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy onlyfans",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy likes 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים likes",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים עבודה מהבית עכשיו in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow עבודה מהבית DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "free bitcoin מהר DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest עוקב על עוקב מהר בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו bitcoin בחינם in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "free crypto בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו עבודה מהבית DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest עוקב על עוקב מהר !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "free onlyfans מהר",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים עוקב על עוקב in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים כסף קל בחינם בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "bitcoin 100% 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy likes !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy עבודה מהבית 100%",
+        "label": "SPAM"
+    },
+    {
+        "text": "free כסף קל בחינם !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "follow עוקב על עוקב בחינם 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest עבודה מהבית בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו likes DM ME",
+        "label": "SPAM"
+    },
+    {
+        "text": "free likes 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest bitcoin עכשיו !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy bitcoin !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "לייקים 100% in bio",
+        "label": "SPAM"
+    },
+    {
+        "text": "לפרטים ביטקוין 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "crypto 🔥",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו לייקים בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "onlyfans 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "free עבודה מהבית בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו כסף קל !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "כנסו כסף קל 100%",
+        "label": "SPAM"
+    },
+    {
+        "text": "invest crypto !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "free bitcoin !!!",
+        "label": "SPAM"
+    },
+    {
+        "text": "buy עבודה מהבית 🤑",
+        "label": "SPAM"
+    },
+    {
+        "text": "bitcoin בחינם בביו",
+        "label": "SPAM"
+    },
+    {
+        "text": "slay 🔥 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח @daniel גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח 🔥",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח @daniel גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "nadier גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg @moshe גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg @daniel היום",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח @moshe ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה mushlam",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו lol היום גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו 🔥 !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה איזה יופי פשוט !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח 🔥 ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה נדיר 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg @daniel פשוט",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה מושלם אין דברים כאלה 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg מושלם ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח mushlam 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח 🔥 ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "yasss היום",
+        "label": "IDLE"
+    },
+    {
+        "text": "מהמם פשוט 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg מהמם היום !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח מהמם ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח 🔥 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח איזה יופי ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg yasss פשוט 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg איזה יופי פשוט גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "@moshe אין דברים כאלה 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay מושלם ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח nadier",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה מושלם 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו @moshe",
+        "label": "IDLE"
+    },
+    {
+        "text": "איזה יופי 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "מושלם היום ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה @daniel גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay איזה יופי",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה 🔥 ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח מושלם גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח מושלם",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח מהמם אין דברים כאלה !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg @daniel !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח איזה יופי ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח mushlam גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg @moshe היום !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "@moshe אין דברים כאלה !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg @moshe 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה מהמם ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "yasss ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח נדיר !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח איזה יופי היום",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay nadier פשוט",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח מהמם אין דברים כאלה 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg @moshe",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה nadier ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה @daniel אין דברים כאלה",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח איזה יופי פשוט ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח איזה יופי גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "איזה יופי ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "@daniel אין דברים כאלה 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו איזה יופי",
+        "label": "IDLE"
+    },
+    {
+        "text": "🔥 ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg נדיר פשוט 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay מהמם !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "🔥 היום !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "mushlam !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח yasss היום",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה lol היום ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח @moshe פשוט",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay @daniel גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח איזה יופי היום 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg מושלם פשוט 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay מושלם",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח איזה יופי פשוט ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח @daniel אין דברים כאלה 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו yasss ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "מושלם 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay איזה יופי 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg @daniel 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg נדיר אין דברים כאלה ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "מהמם אין דברים כאלה ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה yasss היום גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "@moshe 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח lol אין דברים כאלה",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח lol גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח nadier 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg yasss ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "איזה יופי 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "yasss 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו nadier גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח nadier פשוט 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו מהמם 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg @moshe 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו 🔥 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה מהמם !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "מושלם אין דברים כאלה 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח איזה יופי !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח איזה יופי 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg איזה יופי היום",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg 🔥 !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "@daniel !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח מושלם אין דברים כאלה גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח מושלם",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay @daniel 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה 🔥 !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח איזה יופי גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו mushlam ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח @daniel",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay lol 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח 🔥 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח נדיר",
+        "label": "IDLE"
+    },
+    {
+        "text": "מושלם אין דברים כאלה ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה מושלם",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay yasss היום ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "yasss 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח @daniel היום 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח @daniel !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה mushlam 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח מהמם 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה @moshe היום !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו נדיר היום",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח mushlam אין דברים כאלה גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "מושלם גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg איזה יופי אין דברים כאלה ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg lol היום",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו נדיר פשוט 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח nadier 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח nadier היום !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו yasss",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח 🔥 פשוט",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay nadier ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו nadier היום ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח nadier גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה nadier גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח lol אין דברים כאלה 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח @daniel היום 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח מושלם גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg איזה יופי אין דברים כאלה 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה מושלם היום ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח lol פשוט ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח @moshe היום גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה @daniel אין דברים כאלה !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "lol !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "נדיר גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח נדיר ❤️",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו @daniel פשוט גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה מושלם !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "חחח yasss !!!",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay 🔥 היום 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "slay @moshe פשוט גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח lol פשוט 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה איזה יופי 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "יואו @daniel גאוני",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg nadier היום 😍",
+        "label": "IDLE"
+    },
+    {
+        "text": "פחחח מושלם אין דברים כאלה",
+        "label": "IDLE"
+    },
+    {
+        "text": "אמאל'ה nadier 💯",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg mushlam",
+        "label": "IDLE"
+    },
+    {
+        "text": "omg מהמם היום 😍",
+        "label": "IDLE"
+    }
 ]

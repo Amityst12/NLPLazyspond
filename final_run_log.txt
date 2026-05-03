@@ -1,0 +1,40 @@
+============================================================
+FINAL PROJECT EVALUATION LOG - NLPLazyspond
+Date: May 3, 2026
+============================================================
+
+Dataset Overview:
+- Total Dataset Size: 1,000 unique rows
+- Test Set size: 200 examples (20% split)
+- Evaluation Device: NVIDIA GPU (CUDA)
+
+------------------------------------------------------------
+1. FINE-TUNED SETFIT MODEL PERFORMANCE
+------------------------------------------------------------
+Model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+Method: SetFit (Few-Shot Fine-Tuning)
+
+Metrics:
+- Accuracy:  97.50%
+- Precision: 97.68%
+- Recall:    97.25%
+- F1-Score:  97.44%
+
+------------------------------------------------------------
+2. ZERO-SHOT BASELINE PERFORMANCE
+------------------------------------------------------------
+Model: MoritzLaurer/mDeBERTa-v3-base-mnli-xnli
+Method: Zero-Shot Classification
+
+Metrics:
+- Accuracy:  22.00%
+- Precision: 27.99%
+- Recall:    21.99%
+- F1-Score:  20.48%
+
+------------------------------------------------------------
+Summary:
+Fine-tuning the multilingual model on our specialized Israeli 
+slang and Heblish dataset resulted in an absolute accuracy 
+improvement of 75.50% over the zero-shot baseline.
+============================================================
