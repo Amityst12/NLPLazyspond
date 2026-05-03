@@ -48,3 +48,59 @@ With the core algorithmic pipeline validated and achieving ~95% accuracy, the im
 - **Deployment:** Wrap the final saved model (`./setfit_lazyspond_final`) inside a highly concurrent API endpoint using **FastAPI**.
 - **Integration:** Connect the inference API to the primary Lazyspond webhook system to route incoming Instagram story replies in real-time.
 - **Continuous Learning:** Implement a feedback loop in the user dashboard to flag misclassifications, subsequently feeding this active data back into future SetFit training cycles.
+
+## 7. How to Run the API
+
+### Prerequisites
+
+Install all dependencies using the provided `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+> **Note (Windows / Python 3.13):** Due to a known compatibility issue between `setfit` and recent versions of `transformers`, the `app.py` file includes a monkey-patch that resolves the `ImportError: cannot import name 'default_logdir'` error automatically. No manual intervention is needed.
+
+### Starting the Server
+
+Run the following command from the project root directory:
+
+```bash
+uvicorn app:app --host 0.0.0.0 --port 8000
+```
+
+The server will load the fine-tuned SetFit model into memory on startup and will be ready to serve requests at `http://127.0.0.1:8000`.
+
+### Sending a Prediction Request
+
+**Using Python (`requests`):**
+
+```python
+import requests
+
+response = requests.post(
+    "http://127.0.0.1:8000/predict",
+    json={"text": "אחי כמה עולה משלוח לצפון?"}
+)
+print(response.json())
+```
+
+**Using cURL:**
+
+```bash
+curl -X POST "http://127.0.0.1:8000/predict" \
+     -H "Content-Type: application/json" \
+     -d '{"text": "אחי כמה עולה משלוח לצפון?"}'
+```
+
+### Expected Response
+
+```json
+{
+  "text": "אחי כמה עולה משלוח לצפון?",
+  "intent": "LEAD"
+}
+```
+
+The API returns a JSON object with the original `text` and the predicted `intent` label (`LEAD`, `SUPPORT`, `SPAM`, or `IDLE`).
+

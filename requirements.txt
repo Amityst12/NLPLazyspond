@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+setfit
+scikit-learn
+matplotlib
+seaborn
+pandas
+datasets
+torch
+torchvision
+torchaudio
+transformers
+sentence-transformers
+pydantic
+requests
