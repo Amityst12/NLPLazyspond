@@ -1,0 +1,37 @@
+﻿Loading model (setfit_lazyspond_final)...
+
+========================================================================
+ REAL DATA (from instagram_replies.json)
+========================================================================
+Text                                           True       Predicted   OK
+------------------------------------------------------------------------
+where to buy?                                  LEAD       LEAD         ✓
+price bro?                                     LEAD       LEAD         ✓
+כמה עולה אח יקר?                               LEAD       LEAD         ✓
+אפשר עזרה עם ההתחברות? נתקע לי המסך            SUPPORT    SUPPORT      ✓
+it doesnt work help                            SUPPORT    SUPPORT      ✓
+הזמנתי לפני שבוע ועוד לא הגיע מה נסגר          SUPPORT    SUPPORT      ✓
+sdfsdfsdfds                                    SPAM       SPAM         ✓
+djfhsdkfjhsd                                   SPAM       IDLE         ✗
+🔥🔥🔥🔥🔥                                          IDLE       IDLE         ✓
+🔥❤️                                            IDLE       IDLE         ✓
+------------------------------------------------------------------------
+Accuracy: 9/10 = 90%
+
+========================================================================
+ SYNTHETIC DATA (generated)
+========================================================================
+Text                                           True       Predicted   OK
+------------------------------------------------------------------------
+אחי כמה עולה להיום                             LEAD       LEAD         ✓
+wow מחיר ??                                    LEAD       LEAD         ✓
+wow איך מזמינים יש הנחה?                       LEAD       LEAD         ✓
+הלו לא עובד אתמול מתי עונים                    SUPPORT    SUPPORT      ✓
+הלו לא קיבלתי אתמול תעזרו לי                   SUPPORT    SUPPORT      ✓
+נשבר לי                                        SUPPORT    SUPPORT      ✓
+לפרטים עוקב על עוקב 100%                       SPAM       SPAM         ✓
+invest ביטקוין עכשיו 🔥                         SPAM       SPAM         ✓
+איזה יופי פשוט 😍                               IDLE       IDLE         ✓
+omg איזה יופי ❤️                               IDLE       IDLE         ✓
+------------------------------------------------------------------------
+Accuracy: 10/10 = 100%

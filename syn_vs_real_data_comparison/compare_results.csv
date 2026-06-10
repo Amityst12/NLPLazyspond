@@ -1,0 +1,101 @@
+﻿source,text,true_label,predicted_label,correct
+real,איך אפשר להזמין את זה למרכז?,LEAD,LEAD,True
+real,where to buy?,LEAD,LEAD,True
+real,אני רוצה להזמין איך עושים את זה,LEAD,LEAD,True
+real,כמה עולה המשלוח?,LEAD,LEAD,True
+real,how much?,LEAD,LEAD,True
+real,מאיפה אוספים?,LEAD,LEAD,True
+real,price bro?,LEAD,LEAD,True
+real,דבר אליי במספרים,LEAD,LEAD,True
+real,אפשר לשלם בביט?,LEAD,LEAD,True
+real,שלח לינק לפרטי,LEAD,LEAD,True
+real,אפשר פרטים?,LEAD,LEAD,True
+real,כמה עולה אח יקר?,LEAD,LEAD,True
+real,יש הנחה לעוקבים?,LEAD,LEAD,True
+real,יש לי בעיה עם הלינק בביו,SUPPORT,SUPPORT,True
+real,it doesnt work help,SUPPORT,SUPPORT,True
+real,how can I return this?,SUPPORT,SUPPORT,True
+real,המשלוח שלי היה אמור להגיע אתמול,SUPPORT,SUPPORT,True
+real,האתר שלכם קרס לי באמצע ההזמנה,SUPPORT,SUPPORT,True
+real,יש לכם בעיה באפליקציה,SUPPORT,SUPPORT,True
+real,אחי לא קיבלתי את הקוד למייל,SUPPORT,SUPPORT,True
+real,לא קיבלתי אישור למייל,SUPPORT,SUPPORT,True
+real,אפשר לבטל הזמנה שעשיתי הרגע?,SUPPORT,SUPPORT,True
+real,זה מראה לי שגיאה 500,SUPPORT,SUPPORT,True
+real,הקופון לא עובד לי פיזדץ,SUPPORT,SUPPORT,True
+real,היי לא ענו לי בשירות לקוחות,SUPPORT,SUPPORT,True
+real,אפשר עזרה עם ההתחברות? נתקע לי המסך,SUPPORT,SUPPORT,True
+real,עבודה מהבית קלה ורווחית תשלחו הודעה,SPAM,SPAM,True
+real,dm me for promo,SPAM,SPAM,True
+real,vdfjvnkjdfvn,SPAM,SPAM,True
+real,send it to @viral_hebrew,SPAM,SPAM,True
+real,promote your page here,SPAM,SPAM,True
+real,הלוואה ברגע ללא ערבים דברו איתי,SPAM,SPAM,True
+real,check out my crazy story,SPAM,SPAM,True
+real,sdfsdfsdfds,SPAM,SPAM,True
+real,רוצה לעשות כסף קל? כנס עכשיו,SPAM,SPAM,True
+real,djfhsdkfjhsd,SPAM,IDLE,False
+real,בוטים לאינסטגרם בהנחה,SPAM,SPAM,True
+real,free followers and likes !!!,SPAM,SPAM,True
+real,פסיכי לגמרי,IDLE,IDLE,True
+real,lmao,IDLE,IDLE,True
+real,חיים שלי אתה,IDLE,IDLE,True
+real,מטורף אחי יא מלך,IDLE,IDLE,True
+real,אהבתי בטירוף,IDLE,IDLE,True
+real,🔥🔥🔥🔥🔥,IDLE,IDLE,True
+real,wow amazing,IDLE,IDLE,True
+real,שרוף עליך אח יקר,IDLE,IDLE,True
+real,פסיכיייי,IDLE,IDLE,True
+real,חחחחח איזה חזק,IDLE,IDLE,True
+real,מתתתת 💀,IDLE,IDLE,True
+real,חחחחחח איזה גבר,IDLE,IDLE,True
+synthetic,wow כמה עולה בבקשה לפרטי,LEAD,LEAD,True
+synthetic,אפשר שאלה? כמה עולה,LEAD,LEAD,True
+synthetic,אפשר שאלה? הזמנה עכשיו ??,LEAD,LEAD,True
+synthetic,אפשר שאלה? כמה עולה יש הנחה,LEAD,LEAD,True
+synthetic,אפשר שאלה? קישור מהר פליז,LEAD,LEAD,True
+synthetic,משלוח בבקשה פליז,LEAD,LEAD,True
+synthetic,אחי מחיר יש הנחה ??,LEAD,LEAD,True
+synthetic,נשמה איך מזמינים להיום ??,LEAD,LEAD,True
+synthetic,כפרה הזמנה בבקשה?,LEAD,LEAD,True
+synthetic,wow איך מזמינים,LEAD,LEAD,True
+synthetic,כפרה איך מזמינים מהר?,LEAD,LEAD,True
+synthetic,אחי קישור יש הנחה פליז,LEAD,LEAD,True
+synthetic,תגיד לינק יש הנחה ??,LEAD,LEAD,True
+synthetic,לא מצליח להתחבר שוב תעזרו לי,SUPPORT,SUPPORT,True
+synthetic,לא מצליח להתחבר אתמול help,SUPPORT,SUPPORT,True
+synthetic,נשבר לי שוב,SUPPORT,SUPPORT,True
+synthetic,הלו שירות פח help,SUPPORT,SUPPORT,True
+synthetic,למה לא קיבלתי מענה תעזרו לי,SUPPORT,SUPPORT,True
+synthetic,לא קיבלתי מענה אתמול,SUPPORT,SUPPORT,True
+synthetic,הלו לא עובד אתמול!,SUPPORT,SUPPORT,True
+synthetic,wtf באג באתר מתי עונים,SUPPORT,SUPPORT,True
+synthetic,למה שגיאה 500 כבר שבוע תעזרו לי,SUPPORT,SUPPORT,True
+synthetic,אוף נשבר לי שוב help,SUPPORT,SUPPORT,True
+synthetic,למה error בכרום help,SUPPORT,SUPPORT,True
+synthetic,wtf error שוב!,SUPPORT,SUPPORT,True
+synthetic,נשבר לי כבר שבוע,SUPPORT,SUPPORT,True
+synthetic,follow כסף קל,SPAM,SPAM,True
+synthetic,free עבודה מהבית 🔥,SPAM,SPAM,True
+synthetic,invest עוקב על עוקב בחינם in bio,SPAM,SPAM,True
+synthetic,invest עבודה מהבית 100% !!!,SPAM,SPAM,True
+synthetic,follow כסף קל 🔥,SPAM,SPAM,True
+synthetic,free עבודה מהבית מהר בביו,SPAM,SPAM,True
+synthetic,כנסו bitcoin עכשיו,SPAM,SPAM,True
+synthetic,לפרטים crypto,SPAM,SPAM,True
+synthetic,follow עבודה מהבית 100% בביו,SPAM,SPAM,True
+synthetic,כנסו עבודה מהבית !!!,SPAM,SPAM,True
+synthetic,כנסו onlyfans בחינם in bio,SPAM,SPAM,True
+synthetic,לפרטים crypto בחינם in bio,SPAM,SPAM,True
+synthetic,אמאל אמאל 🔥 פשוט 💯,IDLE,IDLE,True
+synthetic,slay yasss 😍,IDLE,IDLE,True
+synthetic,חחח 🔥 פשוט גאוני,IDLE,IDLE,True
+synthetic,omg גאוני אין דברים כאלה 😍,IDLE,IDLE,True
+synthetic,omg 🔥 פשוט 😍,IDLE,IDLE,True
+synthetic,פחחח נדיר פשוט 💯,IDLE,IDLE,True
+synthetic,slay מושלם פשוט גאוני,IDLE,IDLE,True
+synthetic,omg yasss אין דברים כאלה 💯,IDLE,IDLE,True
+synthetic,omg מהמם אין דברים כאלה !!!,IDLE,IDLE,True
+synthetic,אמאל אמאל גאוני פשוט !!!,IDLE,IDLE,True
+synthetic,יואו מושלם אין דברים כאלה כל הכבוד,IDLE,IDLE,True
+synthetic,lol היום ❤️,IDLE,IDLE,True
