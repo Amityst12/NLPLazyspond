@@ -1,0 +1,101 @@
+text,qwen_label,true_label,match
+איך אפשר להזמין את זה למרכז?,LEAD,LEAD,True
+where to buy?,LEAD,LEAD,True
+אני רוצה להזמין איך עושים את זה,LEAD,LEAD,True
+כמה עולה המשלוח?,LEAD,LEAD,True
+how much?,LEAD,LEAD,True
+מאיפה אוספים?,SUPPORT,LEAD,False
+price bro?,LEAD,LEAD,True
+דבר אליי במספרים,LEAD,LEAD,True
+אפשר לשלם בביט?,LEAD,LEAD,True
+שלח לינק לפרטי,LEAD,LEAD,True
+אפשר פרטים?,LEAD,LEAD,True
+כמה עולה אח יקר?,LEAD,LEAD,True
+יש הנחה לעוקבים?,LEAD,LEAD,True
+יש לי בעיה עם הלינק בביו,SUPPORT,SUPPORT,True
+it doesnt work help,LEAD,SUPPORT,False
+how can I return this?,SUPPORT,SUPPORT,True
+המשלוח שלי היה אמור להגיע אתמול,SUPPORT,SUPPORT,True
+האתר שלכם קרס לי באמצע ההזמנה,SUPPORT,SUPPORT,True
+יש לכם בעיה באפליקציה,SUPPORT,SUPPORT,True
+אחי לא קיבלתי את הקוד למייל,SUPPORT,SUPPORT,True
+לא קיבלתי אישור למייל,SUPPORT,SUPPORT,True
+אפשר לבטל הזמנה שעשיתי הרגע?,SUPPORT,SUPPORT,True
+זה מראה לי שגיאה 500,SUPPORT,SUPPORT,True
+הקופון לא עובד לי פיזדץ,LEAD,SUPPORT,False
+היי לא ענו לי בשירות לקוחות,SUPPORT,SUPPORT,True
+אפשר עזרה עם ההתחברות? נתקע לי המסך,SUPPORT,SUPPORT,True
+עבודה מהבית קלה ורווחית תשלחו הודעה,SPAM,SPAM,True
+dm me for promo,SPAM,SPAM,True
+vdfjvnkjdfvn,SPAM,SPAM,True
+send it to @viral_hebrew,IDLE,SPAM,False
+promote your page here,SPAM,SPAM,True
+הלוואה ברגע ללא ערבים דברו איתי,SPAM,SPAM,True
+check out my crazy story,SPAM,SPAM,True
+sdfsdfsdfds,IDLE,SPAM,False
+רוצה לעשות כסף קל? כנס עכשיו,SPAM,SPAM,True
+djfhsdkfjhsd,SPAM,SPAM,True
+בוטים לאינסטגרם בהנחה,SPAM,SPAM,True
+free followers and likes !!!,SPAM,SPAM,True
+פסיכי לגמרי,IDLE,IDLE,True
+lmao,IDLE,IDLE,True
+חיים שלי אתה,IDLE,IDLE,True
+מטורף אחי יא מלך,IDLE,IDLE,True
+אהבתי בטירוף,SPAM,IDLE,False
+🔥🔥🔥🔥🔥,IDLE,IDLE,True
+wow amazing,IDLE,IDLE,True
+שרוף עליך אח יקר,IDLE,IDLE,True
+פסיכיייי,IDLE,IDLE,True
+חחחחח איזה חזק,IDLE,IDLE,True
+מתתתת 💀,SPAM,IDLE,False
+חחחחחח איזה גבר,IDLE,IDLE,True
+wow כמה עולה בבקשה לפרטי,LEAD,LEAD,True
+אפשר שאלה? כמה עולה,LEAD,LEAD,True
+אפשר שאלה? הזמנה עכשיו ??,SUPPORT,LEAD,False
+אפשר שאלה? כמה עולה יש הנחה,LEAD,LEAD,True
+אפשר שאלה? קישור מהר פליז,LEAD,LEAD,True
+משלוח בבקשה פליז,LEAD,LEAD,True
+אחי מחיר יש הנחה ??,LEAD,LEAD,True
+נשמה איך מזמינים להיום ??,LEAD,LEAD,True
+כפרה הזמנה בבקשה?,LEAD,LEAD,True
+wow איך מזמינים,LEAD,LEAD,True
+כפרה איך מזמינים מהר?,LEAD,LEAD,True
+אחי קישור יש הנחה פליז,SPAM,LEAD,False
+תגיד לינק יש הנחה ??,SUPPORT,LEAD,False
+לא מצליח להתחבר שוב תעזרו לי,SUPPORT,SUPPORT,True
+לא מצליח להתחבר אתמול help,SUPPORT,SUPPORT,True
+נשבר לי שוב,SUPPORT,SUPPORT,True
+הלו שירות פח help,SUPPORT,SUPPORT,True
+למה לא קיבלתי מענה תעזרו לי,SUPPORT,SUPPORT,True
+לא קיבלתי מענה אתמול,SUPPORT,SUPPORT,True
+הלו לא עובד אתמול!,SUPPORT,SUPPORT,True
+wtf באג באתר מתי עונים,SUPPORT,SUPPORT,True
+למה שגיאה 500 כבר שבוע תעזרו לי,LEAD,SUPPORT,False
+אוף נשבר לי שוב help,SUPPORT,SUPPORT,True
+למה error בכרום help,SUPPORT,SUPPORT,True
+wtf error שוב!,SUPPORT,SUPPORT,True
+נשבר לי כבר שבוע,SUPPORT,SUPPORT,True
+follow כסף קל,SPAM,SPAM,True
+free עבודה מהבית 🔥,SPAM,SPAM,True
+invest עוקב על עוקב בחינם in bio,SPAM,SPAM,True
+invest עבודה מהבית 100% !!!,SPAM,SPAM,True
+follow כסף קל 🔥,IDLE,SPAM,False
+free עבודה מהבית מהר בביו,SPAM,SPAM,True
+כנסו bitcoin עכשיו,SPAM,SPAM,True
+לפרטים crypto,SPAM,SPAM,True
+follow עבודה מהבית 100% בביו,SPAM,SPAM,True
+כנסו עבודה מהבית !!!,SPAM,SPAM,True
+כנסו onlyfans בחינם in bio,SPAM,SPAM,True
+לפרטים crypto בחינם in bio,SPAM,SPAM,True
+אמאל אמאל 🔥 פשוט 💯,IDLE,IDLE,True
+slay yasss 😍,SPAM,IDLE,False
+חחח 🔥 פשוט גאוני,IDLE,IDLE,True
+omg גאוני אין דברים כאלה 😍,IDLE,IDLE,True
+omg 🔥 פשוט 😍,IDLE,IDLE,True
+פחחח נדיר פשוט 💯,IDLE,IDLE,True
+slay מושלם פשוט גאוני,IDLE,IDLE,True
+omg yasss אין דברים כאלה 💯,IDLE,IDLE,True
+omg מהמם אין דברים כאלה !!!,IDLE,IDLE,True
+אמאל אמאל גאוני פשוט !!!,IDLE,IDLE,True
+יואו מושלם אין דברים כאלה כל הכבוד,SPAM,IDLE,False
+lol היום ❤️,IDLE,IDLE,True
