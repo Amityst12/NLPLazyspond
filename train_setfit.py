@@ -69,7 +69,7 @@ def main():
     print("Evaluation results:", metrics)
 
     print("Saving model...")
-    model.save_pretrained("./setfit_lazyspond_model")
+    model.save_pretrained("./setfit_intent_model")
 
     # 7. Inference Test
     print("Running inference test...")
