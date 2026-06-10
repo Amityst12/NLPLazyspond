@@ -100,7 +100,7 @@ def main():
 
     # 7. Save Model
     print("Saving final model...")
-    model.save_pretrained("./setfit_lazyspond_final")
+    model.save_pretrained("./setfit_intent_model_final")
     print("Done!")
 
 if __name__ == "__main__":

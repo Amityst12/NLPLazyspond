@@ -1,7 +1,7 @@
-# Lazyspond Intent Classification: Hebrew/Heblish Instagram Replies
+# Social Media Intent Classification: Hebrew/Heblish Instagram Replies
 
 ## 1. Project Overview
-Lazyspond is an automation SaaS platform designed to streamline social media interactions. A significant challenge in this domain is handling noisy, unstructured direct messages (DMs) and story replies on Instagram, particularly in the Israeli demographic. 
+This project is an automation system designed to streamline social media interactions. A significant challenge in this domain is handling noisy, unstructured direct messages (DMs) and story replies on Instagram, particularly in the Israeli demographic. 
 
 The objective of this project is to build an Intent Classification system capable of categorizing short, informal Hebrew and "Heblish" (a mixture of Hebrew and English) texts into one of four distinct actionable categories:
 - **LEAD:** High-intent users inquiring about pricing, product details, or purchase links.
@@ -45,8 +45,8 @@ This visualization (saved locally as `confusion_matrix.png`) allows us to inspec
 
 ## 6. Next Steps
 With the core algorithmic pipeline validated and achieving ~95% accuracy, the immediate next steps involve transitioning from experimentation to production:
-- **Deployment:** Wrap the final saved model (`./setfit_lazyspond_final`) inside a highly concurrent API endpoint using **FastAPI**.
-- **Integration:** Connect the inference API to the primary Lazyspond webhook system to route incoming Instagram story replies in real-time.
+- **Deployment:** Wrap the final saved model (`./setfit_intent_model_final`) inside a highly concurrent API endpoint using **FastAPI**.
+- **Integration:** Connect the inference API to the primary social media webhook system to route incoming Instagram story replies in real-time.
 - **Continuous Learning:** Implement a feedback loop in the user dashboard to flag misclassifications, subsequently feeding this active data back into future SetFit training cycles.
 
 ## 7. How to Run the API
@@ -103,4 +103,3 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 ```
 
 The API returns a JSON object with the original `text` and the predicted `intent` label (`LEAD`, `SUPPORT`, `SPAM`, or `IDLE`).
-

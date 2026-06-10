@@ -13,7 +13,7 @@ from setfit import SetFitModel
 
 def main():
     print("Loading saved model...")
-    model = SetFitModel.from_pretrained("./setfit_lazyspond_model")
+    model = SetFitModel.from_pretrained("./setfit_intent_model")
 
     test_sentences = [
         "כמה עולה המנוי שלכם?",

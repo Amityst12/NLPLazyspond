@@ -25,8 +25,8 @@ LABEL_MAP = {0: "LEAD", 1: "SUPPORT", 2: "SPAM", 3: "IDLE"}
 async def lifespan(app: FastAPI):
     # This runs on startup
     global model
-    print("Loading SetFit model into memory from ./setfit_lazyspond_final ...")
-    model = SetFitModel.from_pretrained("./setfit_lazyspond_final")
+    print("Loading SetFit model into memory from ./setfit_intent_model_final ...")
+    model = SetFitModel.from_pretrained("./setfit_intent_model_final")
     print("Model successfully loaded and ready for predictions!")
     yield
     # This runs on shutdown
@@ -34,7 +34,7 @@ async def lifespan(app: FastAPI):
     model = None
 
 # Initialize FastAPI application
-app = FastAPI(title="Lazyspond Intent Classification API", lifespan=lifespan)
+app = FastAPI(title="Social Media Intent Classification API", lifespan=lifespan)
 
 class PredictRequest(BaseModel):
     text: str
